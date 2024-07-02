@@ -1,4 +1,5 @@
 from urllib.request import *
+import os
 
 page = "https://gamefaqs.gamespot.com/ps/916670-final-fantasy-ii/faqs/61436"
 
@@ -11,8 +12,13 @@ req = Request(
 )
 
 html = urlopen(req).read().decode('utf-8')
-o = open("raw/page01.html",'w')
-o.write(html)
-o.close()
 
+# Create the 'raw' folder if it doesn't exist
+if not os.path.exists('raw'):
+    os.makedirs('raw')
 
+# Write the file to the 'raw' folder
+with open("raw/page01.html", 'w', encoding='utf-8') as o:
+    o.write(html)
+
+print("File successfully saved in raw/page01.html.")
