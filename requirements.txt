@@ -17,3 +17,5 @@ spacy
 pytest
 flake8
 black
+networkx
+textblob
