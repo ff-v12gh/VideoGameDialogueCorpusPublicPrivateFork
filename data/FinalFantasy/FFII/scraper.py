@@ -1,6 +1,9 @@
 from urllib.request import *
 import os
 
+# Get the directory of the script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
 page = "https://gamefaqs.gamespot.com/ps/916670-final-fantasy-ii/faqs/61436"
 
 req = Request(
@@ -13,12 +16,14 @@ req = Request(
 
 html = urlopen(req).read().decode('utf-8')
 
-# Create the 'raw' folder if it doesn't exist
-if not os.path.exists('raw'):
-    os.makedirs('raw')
+# Create the 'raw' folder in the same directory as the script
+raw_dir = os.path.join(script_dir, 'raw')
+if not os.path.exists(raw_dir):
+    os.makedirs(raw_dir)
 
 # Write the file to the 'raw' folder
-with open("raw/page01.html", 'w', encoding='utf-8') as o:
+output_file = os.path.join(raw_dir, 'page01.html')
+with open(output_file, 'w', encoding='utf-8') as o:
     o.write(html)
 
-print("File successfully saved in raw/page01.html.")
+print(f"File successfully saved in {output_file}")
