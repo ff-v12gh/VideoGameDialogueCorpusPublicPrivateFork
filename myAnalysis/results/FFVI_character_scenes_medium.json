@@ -1,18 +1,18 @@
 [
   {
     "characters": [
-      "Arvis",
-      "Kefka",
-      "Sentry",
-      "Terra",
-      "Locke",
       "Edgar",
+      "Arvis",
+      "Guard 1",
       "Vicks",
+      "Terra",
       "Soldier",
+      "Sentry",
+      "Locke",
       "Gestahl",
-      "Loud Cheers",
+      "Kefka",
       "Guard",
-      "Guard 1"
+      "Loud Cheers"
     ],
     "content": [
       {
@@ -379,13 +379,13 @@
         "Edgar": "Oh... sorry! How rude of me to turn my back to a lady!"
       }
     ],
-    "summary": "Characters: Arvis, Kefka, Sentry, Terra, Locke, Edgar, Vicks, Soldier, Gestahl, Loud Cheers, Guard, Guard 1. Starts with: There's the town...... Ends with: Oh... sorry! How rude of me to turn my back to a lady!"
+    "summary": "Characters: Edgar, Arvis, Guard 1, Vicks, Terra, Soldier, Sentry, Locke, Gestahl, Kefka, Guard, Loud Cheers. Starts with: There's the town...... Ends with: Oh... sorry! How rude of me to turn my back to a lady!"
   },
   {
     "characters": [
-      "Terra",
-      "Matron",
       "Edgar",
+      "Matron",
+      "Terra",
       "Locke"
     ],
     "content": [
@@ -432,14 +432,14 @@
         "Matron": "Edgar has a twin brother. He was such a nice boy..."
       }
     ],
-    "summary": "Characters: Terra, Matron, Edgar, Locke. Starts with: Oh... sorry! How rude of me to turn my back to a lady!... Ends with: Edgar has a twin brother. He was such a nice boy..."
+    "summary": "Characters: Edgar, Matron, Terra, Locke. Starts with: Oh... sorry! How rude of me to turn my back to a lady!... Ends with: Edgar has a twin brother. He was such a nice boy..."
   },
   {
     "characters": [
       "Edgar",
+      "Youth",
       "Sentry",
-      "Matron",
-      "Youth"
+      "Matron"
     ],
     "content": [
       {
@@ -491,14 +491,14 @@
         "Sentry": "King Edgar! Someone from the Empire to see you!"
       }
     ],
-    "summary": "Characters: Edgar, Sentry, Matron, Youth. Starts with: Edgar has a twin brother. He was such a nice boy...... Ends with: King Edgar! Someone from the Empire to see you!"
+    "summary": "Characters: Edgar, Youth, Sentry, Matron. Starts with: Edgar has a twin brother. He was such a nice boy...... Ends with: King Edgar! Someone from the Empire to see you!"
   },
   {
     "characters": [
-      "Soldiers",
+      "Edgar",
       "Sentry",
       "Kefka",
-      "Edgar"
+      "Soldiers"
     ],
     "content": [
       {
@@ -526,14 +526,14 @@
         "Soldiers": "Yes sir! All set, Sir!"
       }
     ],
-    "summary": "Characters: Soldiers, Sentry, Kefka, Edgar. Starts with: King Edgar! Someone from the Empire to see you!... Ends with: Yes sir! All set, Sir!"
+    "summary": "Characters: Edgar, Sentry, Kefka, Soldiers. Starts with: King Edgar! Someone from the Empire to see you!... Ends with: Yes sir! All set, Sir!"
   },
   {
     "characters": [
-      "Soldiers",
+      "Edgar",
       "Kefka",
       "Sentry",
-      "Edgar"
+      "Soldiers"
     ],
     "content": [
       {
@@ -558,12 +558,12 @@
         "Edgar": "I thought we were allies! What are you doing in my domain?"
       }
     ],
-    "summary": "Characters: Soldiers, Kefka, Sentry, Edgar. Starts with: Yes sir! All set, Sir!... Ends with: I thought we were allies! What are you doing in my domain?"
+    "summary": "Characters: Edgar, Kefka, Sentry, Soldiers. Starts with: Yes sir! All set, Sir!... Ends with: I thought we were allies! What are you doing in my domain?"
   },
   {
     "characters": [
-      "Kefka",
       "Edgar",
+      "Kefka",
       "Locke",
       "Trooper"
     ],
@@ -614,13 +614,13 @@
         "Locke": "I'd say that guy's missing a few buttons..."
       }
     ],
-    "summary": "Characters: Kefka, Edgar, Locke, Trooper. Starts with: I thought we were allies! What are you doing in my domain?... Ends with: I'd say that guy's missing a few buttons..."
+    "summary": "Characters: Edgar, Kefka, Locke, Trooper. Starts with: I thought we were allies! What are you doing in my domain?... Ends with: I'd say that guy's missing a few buttons..."
   },
   {
     "characters": [
+      "Edgar",
       "Terra",
       "Soldier",
-      "Edgar",
       "Locke"
     ],
     "content": [
@@ -685,13 +685,13 @@
         "Soldier": "It's the Empire! It's Kefka!"
       }
     ],
-    "summary": "Characters: Terra, Soldier, Edgar, Locke. Starts with: I'd say that guy's missing a few buttons...... Ends with: It's the Empire! It's Kefka!"
+    "summary": "Characters: Edgar, Terra, Soldier, Locke. Starts with: I'd say that guy's missing a few buttons...... Ends with: It's the Empire! It's Kefka!"
   },
   {
     "characters": [
+      "Edgar",
       "Kefka",
       "Soldier",
-      "Edgar",
       "Locke"
     ],
     "content": [
@@ -747,14 +747,14 @@
         "Locke": "Yahoooo!"
       }
     ],
-    "summary": "Characters: Kefka, Soldier, Edgar, Locke. Starts with: It's the Empire! It's Kefka!... Ends with: Yahoooo!"
+    "summary": "Characters: Edgar, Kefka, Soldier, Locke. Starts with: It's the Empire! It's Kefka!... Ends with: Yahoooo!"
   },
   {
     "characters": [
       "Kefka",
       "Soldier",
-      "Locke",
-      "Chancellor"
+      "Chancellor",
+      "Locke"
     ],
     "content": [
       {
@@ -773,14 +773,14 @@
         "Kefka": "GO!! GET THEM!"
       }
     ],
-    "summary": "Characters: Kefka, Soldier, Locke, Chancellor. Starts with: Yahoooo!... Ends with: GO!! GET THEM!"
+    "summary": "Characters: Kefka, Soldier, Chancellor, Locke. Starts with: Yahoooo!... Ends with: GO!! GET THEM!"
   },
   {
     "characters": [
-      "Kefka",
       "Edgar",
-      "Locke",
-      "Terra"
+      "Kefka",
+      "Terra",
+      "Locke"
     ],
     "content": [
       {
@@ -808,13 +808,13 @@
         "Terra": "Was that a bad person? I... I'm scared..."
       }
     ],
-    "summary": "Characters: Kefka, Edgar, Locke, Terra. Starts with: GO!! GET THEM!... Ends with: Was that a bad person? I... I'm scared..."
+    "summary": "Characters: Edgar, Kefka, Terra, Locke. Starts with: GO!! GET THEM!... Ends with: Was that a bad person? I... I'm scared..."
   },
   {
     "characters": [
-      "Soldier",
       "Edgar",
       "Terra",
+      "Soldier",
       "Locke"
     ],
     "content": [
@@ -870,14 +870,14 @@
         "Soldier": "King Edgar! Where are you headed?"
       }
     ],
-    "summary": "Characters: Soldier, Edgar, Terra, Locke. Starts with: Was that a bad person? I... I'm scared...... Ends with: King Edgar! Where are you headed?"
+    "summary": "Characters: Edgar, Terra, Soldier, Locke. Starts with: Was that a bad person? I... I'm scared...... Ends with: King Edgar! Where are you headed?"
   },
   {
     "characters": [
-      "Soldier",
       "Edgar",
-      "Locke",
-      "Man 1"
+      "Man 1",
+      "Soldier",
+      "Locke"
     ],
     "content": [
       {
@@ -935,7 +935,7 @@
         "Man 1": "Of course. He left a couple of days ago after he heard Master Duncan was slain. He headed into the mountains. I heard Duncan's son, Vargas, is missing as well. I have a bad feeling about this..."
       }
     ],
-    "summary": "Characters: Soldier, Edgar, Locke, Man 1. Starts with: King Edgar! Where are you headed?... Ends with: Of course. He left a couple of days ago after he heard Master Duncan was slain. He headed into the mountains. I heard Duncan's son, Vargas, is missing as well. I have a bad feeling about this..."
+    "summary": "Characters: Edgar, Man 1, Soldier, Locke. Starts with: King Edgar! Where are you headed?... Ends with: Of course. He left a couple of days ago after he heard Master Duncan was slain. He headed into the mountains. I heard Duncan's son, Vargas, is missing as well. I have a bad feeling about this..."
   },
   {
     "characters": [
@@ -968,10 +968,10 @@
   },
   {
     "characters": [
-      "Vargas",
       "Edgar",
-      "Locke",
-      "Sabin"
+      "Vargas",
+      "Sabin",
+      "Locke"
     ],
     "content": [
       {
@@ -993,14 +993,14 @@
         "Sabin": "Give it up, Vargas!"
       }
     ],
-    "summary": "Characters: Vargas, Edgar, Locke, Sabin. Starts with: Sabin? Is he here?... Ends with: Give it up, Vargas!"
+    "summary": "Characters: Edgar, Vargas, Sabin, Locke. Starts with: Sabin? Is he here?... Ends with: Give it up, Vargas!"
   },
   {
     "characters": [
-      "Vargas",
       "Edgar",
-      "Locke",
-      "Sabin"
+      "Sabin",
+      "Vargas",
+      "Locke"
     ],
     "content": [
       {
@@ -1061,14 +1061,14 @@
         "Locke": "The brothers are reunited!"
       }
     ],
-    "summary": "Characters: Vargas, Edgar, Locke, Sabin. Starts with: Give it up, Vargas!... Ends with: The brothers are reunited!"
+    "summary": "Characters: Edgar, Sabin, Vargas, Locke. Starts with: Give it up, Vargas!... Ends with: The brothers are reunited!"
   },
   {
     "characters": [
-      "Terra",
       "Edgar",
-      "Locke",
-      "Sabin"
+      "Sabin",
+      "Terra",
+      "Locke"
     ],
     "content": [
       {
@@ -1084,14 +1084,14 @@
         "Edgar": "We're on the way to the Sabil Mountains."
       }
     ],
-    "summary": "Characters: Terra, Edgar, Locke, Sabin. Starts with: The brothers are reunited!... Ends with: We're on the way to the Sabil Mountains."
+    "summary": "Characters: Edgar, Sabin, Terra, Locke. Starts with: The brothers are reunited!... Ends with: We're on the way to the Sabil Mountains."
   },
   {
     "characters": [
-      "Guard",
       "Edgar",
-      "Locke",
-      "Sabin"
+      "Sabin",
+      "Guard",
+      "Locke"
     ],
     "content": [
       {
@@ -1128,12 +1128,12 @@
         "Guard": "King Edgar! Follow me please"
       }
     ],
-    "summary": "Characters: Guard, Edgar, Locke, Sabin. Starts with: We're on the way to the Sabil Mountains.... Ends with: King Edgar! Follow me please"
+    "summary": "Characters: Edgar, Sabin, Guard, Locke. Starts with: We're on the way to the Sabil Mountains.... Ends with: King Edgar! Follow me please"
   },
   {
     "characters": [
-      "Guard",
       "Edgar",
+      "Guard",
       "Terra",
       "Banon"
     ],
@@ -1151,13 +1151,13 @@
         "Terra": "Espers...?"
       }
     ],
-    "summary": "Characters: Guard, Edgar, Terra, Banon. Starts with: King Edgar! Follow me please... Ends with: Espers...?"
+    "summary": "Characters: Edgar, Guard, Terra, Banon. Starts with: King Edgar! Follow me please... Ends with: Espers...?"
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
       "Terra",
+      "Banon",
       "Locke"
     ],
     "content": [
@@ -1177,14 +1177,14 @@
         "Locke": "Terra!"
       }
     ],
-    "summary": "Characters: Banon, Edgar, Terra, Locke. Starts with: Espers...?... Ends with: Terra!"
+    "summary": "Characters: Edgar, Terra, Banon, Locke. Starts with: Espers...?... Ends with: Terra!"
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
-      "Locke",
-      "Terra"
+      "Terra",
+      "Banon",
+      "Locke"
     ],
     "content": [
       {
@@ -1206,13 +1206,13 @@
         "Terra": "..."
       }
     ],
-    "summary": "Characters: Banon, Edgar, Locke, Terra. Starts with: Terra!... Ends with: ..."
+    "summary": "Characters: Edgar, Terra, Banon, Locke. Starts with: Terra!... Ends with: ..."
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
       "Terra",
+      "Banon",
       "Locke"
     ],
     "content": [
@@ -1235,14 +1235,14 @@
         "Locke": "Someone important to me was jailed by the Empire. I've hated the Empire ever since... (actually, Rachel more or less died but whatever) I joined the Returners when I realized the Empire was rotten to the core. I wanted to make a difference."
       }
     ],
-    "summary": "Characters: Banon, Edgar, Terra, Locke. Starts with: ...... Ends with: Someone important to me was jailed by the Empire. I've hated the Empire ever since... (actually, Rachel more or less died but whatever) I joined the Returners when I realized the Empire was rotten to the core. I wanted to make a difference."
+    "summary": "Characters: Edgar, Terra, Banon, Locke. Starts with: ...... Ends with: Someone important to me was jailed by the Empire. I've hated the Empire ever since... (actually, Rachel more or less died but whatever) I joined the Returners when I realized the Empire was rotten to the core. I wanted to make a difference."
   },
   {
     "characters": [
-      "Terra",
       "Edgar",
-      "Locke",
-      "Sabin"
+      "Sabin",
+      "Terra",
+      "Locke"
     ],
     "content": [
       {
@@ -1261,14 +1261,14 @@
         "Edgar": "It's gonna be tought to talk you into helping us... If we push you too hard, we're no different than the Empire... So we want you to make up your own mind."
       }
     ],
-    "summary": "Characters: Terra, Edgar, Locke, Sabin. Starts with: Someone important to me was jailed by the Empire. I've hated the Empire ever since... (actually, Rachel more or less died but whatever) I joined the Returners when I realized the Empire was rotten to the core. I wanted to make a difference.... Ends with: It's gonna be tought to talk you into helping us... If we push you too hard, we're no different than the Empire... So we want you to make up your own mind."
+    "summary": "Characters: Edgar, Sabin, Terra, Locke. Starts with: Someone important to me was jailed by the Empire. I've hated the Empire ever since... (actually, Rachel more or less died but whatever) I joined the Returners when I realized the Empire was rotten to the core. I wanted to make a difference.... Ends with: It's gonna be tought to talk you into helping us... If we push you too hard, we're no different than the Empire... So we want you to make up your own mind."
   },
   {
     "characters": [
-      "Banon",
-      "Soldier",
       "Edgar",
-      "Terra"
+      "Terra",
+      "Soldier",
+      "Banon"
     ],
     "content": [
       {
@@ -1287,13 +1287,13 @@
         "Terra": "Yes."
       }
     ],
-    "summary": "Characters: Banon, Soldier, Edgar, Terra. Starts with: It's gonna be tought to talk you into helping us... If we push you too hard, we're no different than the Empire... So we want you to make up your own mind.... Ends with: Yes."
+    "summary": "Characters: Edgar, Terra, Soldier, Banon. Starts with: It's gonna be tought to talk you into helping us... If we push you too hard, we're no different than the Empire... So we want you to make up your own mind.... Ends with: Yes."
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
       "Terra",
+      "Banon",
       "Locke"
     ],
     "content": [
@@ -1334,14 +1334,14 @@
         "Locke": "All the trouble in Narshe is over an Esper, too..."
       }
     ],
-    "summary": "Characters: Banon, Edgar, Terra, Locke. Starts with: Yes.... Ends with: All the trouble in Narshe is over an Esper, too..."
+    "summary": "Characters: Edgar, Terra, Banon, Locke. Starts with: Yes.... Ends with: All the trouble in Narshe is over an Esper, too..."
   },
   {
     "characters": [
-      "Terra",
       "Edgar",
-      "Locke",
-      "Banon"
+      "Terra",
+      "Banon",
+      "Locke"
     ],
     "content": [
       {
@@ -1357,14 +1357,14 @@
         "Edgar": "You don't mean..."
       }
     ],
-    "summary": "Characters: Terra, Edgar, Locke, Banon. Starts with: All the trouble in Narshe is over an Esper, too...... Ends with: You don't mean..."
+    "summary": "Characters: Edgar, Terra, Banon, Locke. Starts with: All the trouble in Narshe is over an Esper, too...... Ends with: You don't mean..."
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
-      "Locke",
-      "Terra"
+      "Terra",
+      "Banon",
+      "Locke"
     ],
     "content": [
       {
@@ -1386,13 +1386,13 @@
         "Terra": "That could explain Magitek power..."
       }
     ],
-    "summary": "Characters: Banon, Edgar, Locke, Terra. Starts with: You don't mean...... Ends with: That could explain Magitek power..."
+    "summary": "Characters: Edgar, Terra, Banon, Locke. Starts with: You don't mean...... Ends with: That could explain Magitek power..."
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
       "Terra",
+      "Banon",
       "Locke"
     ],
     "content": [
@@ -1418,14 +1418,14 @@
         "Locke": "Terra..."
       }
     ],
-    "summary": "Characters: Banon, Edgar, Terra, Locke. Starts with: That could explain Magitek power...... Ends with: Terra..."
+    "summary": "Characters: Edgar, Terra, Banon, Locke. Starts with: That could explain Magitek power...... Ends with: Terra..."
   },
   {
     "characters": [
+      "Sabin",
       "Terra",
       "Banon",
-      "Locke",
-      "Sabin"
+      "Locke"
     ],
     "content": [
       {
@@ -1441,14 +1441,14 @@
         "Banon": "What? What's that noise?"
       }
     ],
-    "summary": "Characters: Terra, Banon, Locke, Sabin. Starts with: Terra...... Ends with: What? What's that noise?"
+    "summary": "Characters: Sabin, Terra, Banon, Locke. Starts with: Terra...... Ends with: What? What's that noise?"
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
-      "Locke",
-      "Sabin"
+      "Sabin",
+      "Banon",
+      "Locke"
     ],
     "content": [
       {
@@ -1482,14 +1482,14 @@
         "Sabin": "Big brother... Aren't you EVER going to grow up?"
       }
     ],
-    "summary": "Characters: Banon, Edgar, Locke, Sabin. Starts with: What? What's that noise?... Ends with: Big brother... Aren't you EVER going to grow up?"
+    "summary": "Characters: Edgar, Sabin, Banon, Locke. Starts with: What? What's that noise?... Ends with: Big brother... Aren't you EVER going to grow up?"
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
+      "Sabin",
       "Terra",
-      "Sabin"
+      "Banon"
     ],
     "content": [
       {
@@ -1520,14 +1520,14 @@
         "Terra": "No"
       }
     ],
-    "summary": "Characters: Banon, Edgar, Terra, Sabin. Starts with: Big brother... Aren't you EVER going to grow up?... Ends with: No"
+    "summary": "Characters: Edgar, Sabin, Terra, Banon. Starts with: Big brother... Aren't you EVER going to grow up?... Ends with: No"
   },
   {
     "characters": [
-      "Banon",
-      "Soldier",
+      "Ultros",
       "Terra",
-      "Ultros"
+      "Banon",
+      "Soldier"
     ],
     "content": [
       {
@@ -1585,14 +1585,14 @@
         "Ultros": "Uwee ee ee, Game Over! Don't tease the Octopus kids!"
       }
     ],
-    "summary": "Characters: Banon, Soldier, Terra, Ultros. Starts with: No... Ends with: Uwee ee ee, Game Over! Don't tease the Octopus kids!"
+    "summary": "Characters: Ultros, Terra, Banon, Soldier. Starts with: No... Ends with: Uwee ee ee, Game Over! Don't tease the Octopus kids!"
   },
   {
     "characters": [
-      "Ultros",
       "Edgar",
-      "Terra",
-      "Sabin"
+      "Sabin",
+      "Ultros",
+      "Terra"
     ],
     "content": [
       {
@@ -1614,14 +1614,14 @@
         "Terra": "Ewww!! Something's stuck to my leg!"
       }
     ],
-    "summary": "Characters: Ultros, Edgar, Terra, Sabin. Starts with: Uwee ee ee, Game Over! Don't tease the Octopus kids!... Ends with: Ewww!! Something's stuck to my leg!"
+    "summary": "Characters: Edgar, Sabin, Ultros, Terra. Starts with: Uwee ee ee, Game Over! Don't tease the Octopus kids!... Ends with: Ewww!! Something's stuck to my leg!"
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
+      "Sabin",
       "Terra",
-      "Sabin"
+      "Banon"
     ],
     "content": [
       {
@@ -1637,14 +1637,14 @@
         "Sabin": "Watch out! I'm going to hit it with a Blitz!"
       }
     ],
-    "summary": "Characters: Banon, Edgar, Terra, Sabin. Starts with: Ewww!! Something's stuck to my leg!... Ends with: Watch out! I'm going to hit it with a Blitz!"
+    "summary": "Characters: Edgar, Sabin, Terra, Banon. Starts with: Ewww!! Something's stuck to my leg!... Ends with: Watch out! I'm going to hit it with a Blitz!"
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
+      "Sabin",
       "Terra",
-      "Sabin"
+      "Banon"
     ],
     "content": [
       {
@@ -1666,14 +1666,14 @@
         "Banon": "Don't worry about him!"
       }
     ],
-    "summary": "Characters: Banon, Edgar, Terra, Sabin. Starts with: Watch out! I'm going to hit it with a Blitz!... Ends with: Don't worry about him!"
+    "summary": "Characters: Edgar, Sabin, Terra, Banon. Starts with: Watch out! I'm going to hit it with a Blitz!... Ends with: Don't worry about him!"
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
+      "Sabin",
       "Terra",
-      "Sabin"
+      "Banon"
     ],
     "content": [
       {
@@ -1701,12 +1701,12 @@
         "Terra": "Sabin!!"
       }
     ],
-    "summary": "Characters: Banon, Edgar, Terra, Sabin. Starts with: Don't worry about him!... Ends with: Sabin!!"
+    "summary": "Characters: Edgar, Sabin, Terra, Banon. Starts with: Don't worry about him!... Ends with: Sabin!!"
   },
   {
     "characters": [
-      "Guard",
       "Edgar",
+      "Guard",
       "Terra",
       "Banon"
     ],
@@ -1742,14 +1742,14 @@
         "Banon": "Wait a sec!"
       }
     ],
-    "summary": "Characters: Guard, Edgar, Terra, Banon. Starts with: Sabin!!... Ends with: Wait a sec!"
+    "summary": "Characters: Edgar, Guard, Terra, Banon. Starts with: Sabin!!... Ends with: Wait a sec!"
   },
   {
     "characters": [
       "Edgar",
-      "Banon",
       "Guard",
-      "Terra"
+      "Terra",
+      "Banon"
     ],
     "content": [
       {
@@ -1780,12 +1780,12 @@
         "Terra": "It's all my fault..."
       }
     ],
-    "summary": "Characters: Edgar, Banon, Guard, Terra. Starts with: Wait a sec!... Ends with: It's all my fault..."
+    "summary": "Characters: Edgar, Guard, Terra, Banon. Starts with: Wait a sec!... Ends with: It's all my fault..."
   },
   {
     "characters": [
-      "Arvis",
       "Edgar",
+      "Arvis",
       "Terra",
       "Banon"
     ],
@@ -1821,14 +1821,14 @@
         "Banon": "Arvis! What's happening here in Narshe?"
       }
     ],
-    "summary": "Characters: Arvis, Edgar, Terra, Banon. Starts with: It's all my fault...... Ends with: Arvis! What's happening here in Narshe?"
+    "summary": "Characters: Edgar, Arvis, Terra, Banon. Starts with: It's all my fault...... Ends with: Arvis! What's happening here in Narshe?"
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
+      "Arvis",
       "Sabin",
-      "Arvis"
+      "Banon"
     ],
     "content": [
       {
@@ -1862,14 +1862,14 @@
         "Sabin": "You... on a journey? I got separated from my friends. Say, can you tell me how to get to Narshe?"
       }
     ],
-    "summary": "Characters: Banon, Edgar, Sabin, Arvis. Starts with: Arvis! What's happening here in Narshe?... Ends with: You... on a journey? I got separated from my friends. Say, can you tell me how to get to Narshe?"
+    "summary": "Characters: Edgar, Arvis, Sabin, Banon. Starts with: Arvis! What's happening here in Narshe?... Ends with: You... on a journey? I got separated from my friends. Say, can you tell me how to get to Narshe?"
   },
   {
     "characters": [
-      "Soldier B",
       "Soldier A",
       "Sabin",
-      "Shadow"
+      "Shadow",
+      "Soldier B"
     ],
     "content": [
       {
@@ -1903,14 +1903,14 @@
         "Soldier B": "Oh you mean..."
       }
     ],
-    "summary": "Characters: Soldier B, Soldier A, Sabin, Shadow. Starts with: You... on a journey? I got separated from my friends. Say, can you tell me how to get to Narshe?... Ends with: Oh you mean..."
+    "summary": "Characters: Soldier A, Sabin, Shadow, Soldier B. Starts with: You... on a journey? I got separated from my friends. Say, can you tell me how to get to Narshe?... Ends with: Oh you mean..."
   },
   {
     "characters": [
+      "Soldier A",
       "Kefka",
       "Commander",
-      "Soldier B",
-      "Soldier A"
+      "Soldier B"
     ],
     "content": [
       {
@@ -1959,14 +1959,14 @@
         "Commander": "You two! We're about to storm Doma Castle... You will join the assault team!"
       }
     ],
-    "summary": "Characters: Kefka, Commander, Soldier B, Soldier A. Starts with: Oh you mean...... Ends with: You two! We're about to storm Doma Castle... You will join the assault team!"
+    "summary": "Characters: Soldier A, Kefka, Commander, Soldier B. Starts with: Oh you mean...... Ends with: You two! We're about to storm Doma Castle... You will join the assault team!"
   },
   {
     "characters": [
-      "Commander",
-      "Other Sentry",
+      "Doma Sentry",
       "Cyan",
-      "Doma Sentry"
+      "Commander",
+      "Other Sentry"
     ],
     "content": [
       {
@@ -1991,13 +1991,13 @@
         "Cyan": "A moment Sir! Allow me the honor!"
       }
     ],
-    "summary": "Characters: Commander, Other Sentry, Cyan, Doma Sentry. Starts with: You two! We're about to storm Doma Castle... You will join the assault team!... Ends with: A moment Sir! Allow me the honor!"
+    "summary": "Characters: Doma Sentry, Cyan, Commander, Other Sentry. Starts with: You two! We're about to storm Doma Castle... You will join the assault team!... Ends with: A moment Sir! Allow me the honor!"
   },
   {
     "characters": [
       "Doma Sentry",
-      "Soldier",
       "Cyan",
+      "Soldier",
       "Trooper"
     ],
     "content": [
@@ -2035,14 +2035,14 @@
         "Soldier": "General Leo. The citizens of Doma seem to be playing a waiting game.."
       }
     ],
-    "summary": "Characters: Doma Sentry, Soldier, Cyan, Trooper. Starts with: A moment Sir! Allow me the honor!... Ends with: General Leo. The citizens of Doma seem to be playing a waiting game.."
+    "summary": "Characters: Doma Sentry, Cyan, Soldier, Trooper. Starts with: A moment Sir! Allow me the honor!... Ends with: General Leo. The citizens of Doma seem to be playing a waiting game.."
   },
   {
     "characters": [
-      "Leo",
+      "Sabin",
       "Soldier",
-      "Kefka",
-      "Sabin"
+      "Leo",
+      "Kefka"
     ],
     "content": [
       {
@@ -2100,13 +2100,13 @@
         "Kefka": "Now that Leo's gone, I'll turn this water into a flowing river of poison!"
       }
     ],
-    "summary": "Characters: Leo, Soldier, Kefka, Sabin. Starts with: General Leo. The citizens of Doma seem to be playing a waiting game..... Ends with: Now that Leo's gone, I'll turn this water into a flowing river of poison!"
+    "summary": "Characters: Sabin, Soldier, Leo, Kefka. Starts with: General Leo. The citizens of Doma seem to be playing a waiting game..... Ends with: Now that Leo's gone, I'll turn this water into a flowing river of poison!"
   },
   {
     "characters": [
       "Kefka",
-      "Soldier",
       "Sabin",
+      "Soldier",
       "Leo"
     ],
     "content": [
@@ -2153,14 +2153,14 @@
         "Sabin": "That's inhuman!"
       }
     ],
-    "summary": "Characters: Kefka, Soldier, Sabin, Leo. Starts with: Now that Leo's gone, I'll turn this water into a flowing river of poison!... Ends with: That's inhuman!"
+    "summary": "Characters: Kefka, Sabin, Soldier, Leo. Starts with: Now that Leo's gone, I'll turn this water into a flowing river of poison!... Ends with: That's inhuman!"
   },
   {
     "characters": [
-      "Kefka",
-      "Cyan",
+      "Sabin",
       "Doma Sentry",
-      "Sabin"
+      "Kefka",
+      "Cyan"
     ],
     "content": [
       {
@@ -2188,14 +2188,14 @@
         "Cyan": "Huh? The water looks odd..."
       }
     ],
-    "summary": "Characters: Kefka, Cyan, Doma Sentry, Sabin. Starts with: That's inhuman!... Ends with: Huh? The water looks odd..."
+    "summary": "Characters: Sabin, Doma Sentry, Kefka, Cyan. Starts with: That's inhuman!... Ends with: Huh? The water looks odd..."
   },
   {
     "characters": [
-      "King Doma",
       "Doma Sentry",
-      "Soldier",
-      "Cyan"
+      "Cyan",
+      "King Doma",
+      "Soldier"
     ],
     "content": [
       {
@@ -2280,14 +2280,14 @@
         "Soldier": "The enemy! Get ready everyone!"
       }
     ],
-    "summary": "Characters: King Doma, Doma Sentry, Soldier, Cyan. Starts with: Huh? The water looks odd...... Ends with: The enemy! Get ready everyone!"
+    "summary": "Characters: Doma Sentry, Cyan, King Doma, Soldier. Starts with: Huh? The water looks odd...... Ends with: The enemy! Get ready everyone!"
   },
   {
     "characters": [
-      "Soldier",
+      "Sabin",
       "Cyan",
-      "Elayne",
-      "Sabin"
+      "Soldier",
+      "Elayne"
     ],
     "content": [
       {
@@ -2444,12 +2444,12 @@
         "Elayne": "My love... You made so happy. Don't forget me OWAIN: Dad! I'll make sure Mom's alright"
       }
     ],
-    "summary": "Characters: Soldier, Cyan, Elayne, Sabin. Starts with: The enemy! Get ready everyone!... Ends with: My love... You made so happy. Don't forget me OWAIN: Dad! I'll make sure Mom's alright"
+    "summary": "Characters: Sabin, Cyan, Soldier, Elayne. Starts with: The enemy! Get ready everyone!... Ends with: My love... You made so happy. Don't forget me OWAIN: Dad! I'll make sure Mom's alright"
   },
   {
     "characters": [
-      "Cyan",
       "Elayne",
+      "Cyan",
       "Sabin",
       "Shadow"
     ],
@@ -2482,13 +2482,13 @@
         "Shadow": "I have served my purpose..."
       }
     ],
-    "summary": "Characters: Cyan, Elayne, Sabin, Shadow. Starts with: My love... You made so happy. Don't forget me OWAIN: Dad! I'll make sure Mom's alright... Ends with: I have served my purpose..."
+    "summary": "Characters: Elayne, Cyan, Sabin, Shadow. Starts with: My love... You made so happy. Don't forget me OWAIN: Dad! I'll make sure Mom's alright... Ends with: I have served my purpose..."
   },
   {
     "characters": [
-      "Gau",
-      "Cyan",
       "Sabin",
+      "Cyan",
+      "Gau",
       "Shadow"
     ],
     "content": [
@@ -2520,14 +2520,14 @@
         "Cyan": "Thou art so... odd."
       }
     ],
-    "summary": "Characters: Gau, Cyan, Sabin, Shadow. Starts with: I have served my purpose...... Ends with: Thou art so... odd."
+    "summary": "Characters: Sabin, Cyan, Gau, Shadow. Starts with: I have served my purpose...... Ends with: Thou art so... odd."
   },
   {
     "characters": [
-      "Cyan",
-      "Locke",
       "Sabin",
-      "Gau"
+      "Cyan",
+      "Gau",
+      "Locke"
     ],
     "content": [
       {
@@ -2711,14 +2711,14 @@
         "Locke": "Nuts! Gotta get to Narshe on the fly..."
       }
     ],
-    "summary": "Characters: Cyan, Locke, Sabin, Gau. Starts with: Thou art so... odd.... Ends with: Nuts! Gotta get to Narshe on the fly..."
+    "summary": "Characters: Sabin, Cyan, Gau, Locke. Starts with: Thou art so... odd.... Ends with: Nuts! Gotta get to Narshe on the fly..."
   },
   {
     "characters": [
       "Guard",
       "Merchant",
-      "Locke",
-      "Celes"
+      "Celes",
+      "Locke"
     ],
     "content": [
       {
@@ -2758,14 +2758,14 @@
         "Celes": "How can you serve those cowards..."
       }
     ],
-    "summary": "Characters: Guard, Merchant, Locke, Celes. Starts with: Nuts! Gotta get to Narshe on the fly...... Ends with: How can you serve those cowards..."
+    "summary": "Characters: Guard, Merchant, Celes, Locke. Starts with: Nuts! Gotta get to Narshe on the fly...... Ends with: How can you serve those cowards..."
   },
   {
     "characters": [
+      "Elder",
       "Guard",
       "Locke",
-      "Celes",
-      "Elder"
+      "Celes"
     ],
     "content": [
       {
@@ -2859,13 +2859,13 @@
         "Elder": "I understand all of it... Except... how can we be encouraging bloodshed?"
       }
     ],
-    "summary": "Characters: Guard, Locke, Celes, Elder. Starts with: How can you serve those cowards...... Ends with: I understand all of it... Except... how can we be encouraging bloodshed?"
+    "summary": "Characters: Elder, Guard, Locke, Celes. Starts with: How can you serve those cowards...... Ends with: I understand all of it... Except... how can we be encouraging bloodshed?"
   },
   {
     "characters": [
+      "Elder",
       "Arvis",
       "Sabin",
-      "Elder",
       "Banon"
     ],
     "content": [
@@ -2897,13 +2897,13 @@
         "Sabin": "Brother!"
       }
     ],
-    "summary": "Characters: Arvis, Sabin, Elder, Banon. Starts with: I understand all of it... Except... how can we be encouraging bloodshed?... Ends with: Brother!"
+    "summary": "Characters: Elder, Arvis, Sabin, Banon. Starts with: I understand all of it... Except... how can we be encouraging bloodshed?... Ends with: Brother!"
   },
   {
     "characters": [
-      "Cyan",
       "Edgar",
       "Sabin",
+      "Cyan",
       "Gau"
     ],
     "content": [
@@ -2920,13 +2920,13 @@
         "Gau": "Gau GAU!"
       }
     ],
-    "summary": "Characters: Cyan, Edgar, Sabin, Gau. Starts with: Brother!... Ends with: Gau GAU!"
+    "summary": "Characters: Edgar, Sabin, Cyan, Gau. Starts with: Brother!... Ends with: Gau GAU!"
   },
   {
     "characters": [
-      "Cyan",
       "Elder",
       "Sabin",
+      "Cyan",
       "Gau"
     ],
     "content": [
@@ -2943,14 +2943,14 @@
         "Elder": "Barbaric!"
       }
     ],
-    "summary": "Characters: Cyan, Elder, Sabin, Gau. Starts with: Gau GAU!... Ends with: Barbaric!"
+    "summary": "Characters: Elder, Sabin, Cyan, Gau. Starts with: Gau GAU!... Ends with: Barbaric!"
   },
   {
     "characters": [
-      "Banon",
-      "Locke",
       "Elder",
-      "Terra"
+      "Terra",
+      "Banon",
+      "Locke"
     ],
     "content": [
       {
@@ -2969,13 +2969,13 @@
         "Terra": "Locke!"
       }
     ],
-    "summary": "Characters: Banon, Locke, Elder, Terra. Starts with: Barbaric!... Ends with: Locke!"
+    "summary": "Characters: Elder, Terra, Banon, Locke. Starts with: Barbaric!... Ends with: Locke!"
   },
   {
     "characters": [
-      "Banon",
       "Edgar",
       "Terra",
+      "Banon",
       "Locke"
     ],
     "content": [
@@ -2992,13 +2992,13 @@
         "Banon": "Locke. Where'd you hear that?"
       }
     ],
-    "summary": "Characters: Banon, Edgar, Terra, Locke. Starts with: Locke!... Ends with: Locke. Where'd you hear that?"
+    "summary": "Characters: Edgar, Terra, Banon, Locke. Starts with: Locke!... Ends with: Locke. Where'd you hear that?"
   },
   {
     "characters": [
       "Edgar",
-      "Banon",
       "Cyan",
+      "Banon",
       "Locke"
     ],
     "content": [
@@ -3024,14 +3024,14 @@
         "Edgar": "Locke... are you still thinking about... that?"
       }
     ],
-    "summary": "Characters: Edgar, Banon, Cyan, Locke. Starts with: Locke. Where'd you hear that?... Ends with: Locke... are you still thinking about... that?"
+    "summary": "Characters: Edgar, Cyan, Banon, Locke. Starts with: Locke. Where'd you hear that?... Ends with: Locke... are you still thinking about... that?"
   },
   {
     "characters": [
-      "Cyan",
       "Edgar",
-      "Terra",
-      "Sabin"
+      "Sabin",
+      "Cyan",
+      "Terra"
     ],
     "content": [
       {
@@ -3050,14 +3050,14 @@
         "Sabin": "Oh this is..."
       }
     ],
-    "summary": "Characters: Cyan, Edgar, Terra, Sabin. Starts with: Locke... are you still thinking about... that?... Ends with: Oh this is..."
+    "summary": "Characters: Edgar, Sabin, Cyan, Terra. Starts with: Locke... are you still thinking about... that?... Ends with: Oh this is..."
   },
   {
     "characters": [
-      "Kefka",
-      "Soldier",
       "Elder",
-      "Sabin"
+      "Sabin",
+      "Soldier",
+      "Kefka"
     ],
     "content": [
       {
@@ -3091,13 +3091,13 @@
         "Elder": "We really have no choice. Let's make ready for war!"
       }
     ],
-    "summary": "Characters: Kefka, Soldier, Elder, Sabin. Starts with: Oh this is...... Ends with: We really have no choice. Let's make ready for war!"
+    "summary": "Characters: Elder, Sabin, Soldier, Kefka. Starts with: Oh this is...... Ends with: We really have no choice. Let's make ready for war!"
   },
   {
     "characters": [
-      "Banon",
-      "Edgar",
       "Elder",
+      "Edgar",
+      "Banon",
       "Celes"
     ],
     "content": [
@@ -3123,12 +3123,12 @@
         "Celes": "I'm a soldier, not some love-starved twit!"
       }
     ],
-    "summary": "Characters: Banon, Edgar, Elder, Celes. Starts with: We really have no choice. Let's make ready for war!... Ends with: I'm a soldier, not some love-starved twit!"
+    "summary": "Characters: Elder, Edgar, Banon, Celes. Starts with: We really have no choice. Let's make ready for war!... Ends with: I'm a soldier, not some love-starved twit!"
   },
   {
     "characters": [
-      "Cyan",
       "Edgar",
+      "Cyan",
       "Terra",
       "Celes"
     ],
@@ -3164,13 +3164,13 @@
         "Cyan": "Don't think for a moment I trust you!"
       }
     ],
-    "summary": "Characters: Cyan, Edgar, Terra, Celes. Starts with: I'm a soldier, not some love-starved twit!... Ends with: Don't think for a moment I trust you!"
+    "summary": "Characters: Edgar, Cyan, Terra, Celes. Starts with: I'm a soldier, not some love-starved twit!... Ends with: Don't think for a moment I trust you!"
   },
   {
     "characters": [
-      "Banon",
       "Kefka",
       "Cyan",
+      "Banon",
       "Celes"
     ],
     "content": [
@@ -3190,13 +3190,13 @@
         "Kefka": "Oho!! It's General Celes, the traitor! How delightful! This'll be fun! *laugh*"
       }
     ],
-    "summary": "Characters: Banon, Kefka, Cyan, Celes. Starts with: Don't think for a moment I trust you!... Ends with: Oho!! It's General Celes, the traitor! How delightful! This'll be fun! *laugh*"
+    "summary": "Characters: Kefka, Cyan, Banon, Celes. Starts with: Don't think for a moment I trust you!... Ends with: Oho!! It's General Celes, the traitor! How delightful! This'll be fun! *laugh*"
   },
   {
     "characters": [
-      "Cyan",
-      "Kefka",
       "Edgar",
+      "Kefka",
+      "Cyan",
       "Sabin"
     ],
     "content": [
@@ -3222,14 +3222,14 @@
         "Sabin": "Impossible... right?!"
       }
     ],
-    "summary": "Characters: Cyan, Kefka, Edgar, Sabin. Starts with: Oho!! It's General Celes, the traitor! How delightful! This'll be fun! *laugh*... Ends with: Impossible... right?!"
+    "summary": "Characters: Edgar, Kefka, Cyan, Sabin. Starts with: Oho!! It's General Celes, the traitor! How delightful! This'll be fun! *laugh*... Ends with: Impossible... right?!"
   },
   {
     "characters": [
-      "Terra",
       "Edgar",
-      "Locke",
-      "Sabin"
+      "Sabin",
+      "Terra",
+      "Locke"
     ],
     "content": [
       {
@@ -3251,13 +3251,13 @@
         "Edgar": "There's some kinda reaction!"
       }
     ],
-    "summary": "Characters: Terra, Edgar, Locke, Sabin. Starts with: Impossible... right?!... Ends with: There's some kinda reaction!"
+    "summary": "Characters: Edgar, Sabin, Terra, Locke. Starts with: Impossible... right?!... Ends with: There's some kinda reaction!"
   },
   {
     "characters": [
       "Edgar",
-      "Terra",
       "Celes",
+      "Terra",
       "Locke"
     ],
     "content": [
@@ -3277,14 +3277,14 @@
         "Celes": "An Esper... I can actually feel its mind"
       }
     ],
-    "summary": "Characters: Edgar, Terra, Celes, Locke. Starts with: There's some kinda reaction!... Ends with: An Esper... I can actually feel its mind"
+    "summary": "Characters: Edgar, Celes, Terra, Locke. Starts with: There's some kinda reaction!... Ends with: An Esper... I can actually feel its mind"
   },
   {
     "characters": [
       "Edgar",
       "Locke",
-      "Celes",
-      "Sabin"
+      "Sabin",
+      "Celes"
     ],
     "content": [
       {
@@ -3327,14 +3327,14 @@
         "Sabin": "Banon needs our help, too..."
       }
     ],
-    "summary": "Characters: Edgar, Locke, Celes, Sabin. Starts with: An Esper... I can actually feel its mind... Ends with: Banon needs our help, too..."
+    "summary": "Characters: Edgar, Locke, Sabin, Celes. Starts with: An Esper... I can actually feel its mind... Ends with: Banon needs our help, too..."
   },
   {
     "characters": [
       "Edgar",
+      "Sabin",
       "Cyan",
-      "Locke",
-      "Sabin"
+      "Locke"
     ],
     "content": [
       {
@@ -3359,14 +3359,14 @@
         "Locke": "...wasn't able to... save her when she needed me..."
       }
     ],
-    "summary": "Characters: Edgar, Cyan, Locke, Sabin. Starts with: Banon needs our help, too...... Ends with: ...wasn't able to... save her when she needed me..."
+    "summary": "Characters: Edgar, Sabin, Cyan, Locke. Starts with: Banon needs our help, too...... Ends with: ...wasn't able to... save her when she needed me..."
   },
   {
     "characters": [
-      "Thief",
-      "Locke",
       "Rachel",
-      "Rachel's Dad"
+      "Thief",
+      "Rachel's Dad",
+      "Locke"
     ],
     "content": [
       {
@@ -3415,13 +3415,13 @@
         "Thief": "You'd best leave Rachel alone. She's going to have to make a new start of it. Locke... your being here doesn't help."
       }
     ],
-    "summary": "Characters: Thief, Locke, Rachel, Rachel's Dad. Starts with: ...wasn't able to... save her when she needed me...... Ends with: You'd best leave Rachel alone. She's going to have to make a new start of it. Locke... your being here doesn't help."
+    "summary": "Characters: Rachel, Thief, Rachel's Dad, Locke. Starts with: ...wasn't able to... save her when she needed me...... Ends with: You'd best leave Rachel alone. She's going to have to make a new start of it. Locke... your being here doesn't help."
   },
   {
     "characters": [
+      "Thief",
       "Terra",
       "Ramuh",
-      "Thief",
       "Locke"
     ],
     "content": [
@@ -3450,14 +3450,14 @@
         "Ramuh": "She's scared, you know."
       }
     ],
-    "summary": "Characters: Terra, Ramuh, Thief, Locke. Starts with: You'd best leave Rachel alone. She's going to have to make a new start of it. Locke... your being here doesn't help.... Ends with: She's scared, you know."
+    "summary": "Characters: Thief, Terra, Ramuh, Locke. Starts with: You'd best leave Rachel alone. She's going to have to make a new start of it. Locke... your being here doesn't help.... Ends with: She's scared, you know."
   },
   {
     "characters": [
-      "Ramuh",
       "Edgar",
-      "Celes",
-      "Sabin"
+      "Sabin",
+      "Ramuh",
+      "Celes"
     ],
     "content": [
       {
@@ -3545,14 +3545,14 @@
         "Sabin": "This can't be true... Celes?"
       }
     ],
-    "summary": "Characters: Ramuh, Edgar, Celes, Sabin. Starts with: She's scared, you know.... Ends with: This can't be true... Celes?"
+    "summary": "Characters: Edgar, Sabin, Ramuh, Celes. Starts with: She's scared, you know.... Ends with: This can't be true... Celes?"
   },
   {
     "characters": [
       "Edgar",
+      "Sabin",
       "Cyan",
-      "Celes",
-      "Sabin"
+      "Celes"
     ],
     "content": [
       {
@@ -3568,14 +3568,14 @@
         "Edgar": "We'd best split into 2 groups. We still need to beef up our defenses in Narshe."
       }
     ],
-    "summary": "Characters: Edgar, Cyan, Celes, Sabin. Starts with: This can't be true... Celes?... Ends with: We'd best split into 2 groups. We still need to beef up our defenses in Narshe."
+    "summary": "Characters: Edgar, Sabin, Cyan, Celes. Starts with: This can't be true... Celes?... Ends with: We'd best split into 2 groups. We still need to beef up our defenses in Narshe."
   },
   {
     "characters": [
-      "Cyan",
       "Edgar",
-      "Celes",
-      "Sabin"
+      "Sabin",
+      "Cyan",
+      "Celes"
     ],
     "content": [
       {
@@ -3591,14 +3591,14 @@
         "Sabin": "But alone...?"
       }
     ],
-    "summary": "Characters: Cyan, Edgar, Celes, Sabin. Starts with: We'd best split into 2 groups. We still need to beef up our defenses in Narshe.... Ends with: But alone...?"
+    "summary": "Characters: Edgar, Sabin, Cyan, Celes. Starts with: We'd best split into 2 groups. We still need to beef up our defenses in Narshe.... Ends with: But alone...?"
   },
   {
     "characters": [
-      "Cyan",
-      "Locke",
+      "Sabin",
       "Celes",
-      "Sabin"
+      "Cyan",
+      "Locke"
     ],
     "content": [
       {
@@ -3614,14 +3614,14 @@
         "Cyan": "You need a hand?"
       }
     ],
-    "summary": "Characters: Cyan, Locke, Celes, Sabin. Starts with: But alone...?... Ends with: You need a hand?"
+    "summary": "Characters: Sabin, Celes, Cyan, Locke. Starts with: But alone...?... Ends with: You need a hand?"
   },
   {
     "characters": [
-      "Impresario",
       "Cyan",
-      "Locke",
-      "Celes"
+      "Celes",
+      "Impresario",
+      "Locke"
     ],
     "content": [
       {
@@ -3664,14 +3664,14 @@
         "Impresario": "Maria!?"
       }
     ],
-    "summary": "Characters: Impresario, Cyan, Locke, Celes. Starts with: You need a hand?... Ends with: Maria!?"
+    "summary": "Characters: Cyan, Celes, Impresario, Locke. Starts with: You need a hand?... Ends with: Maria!?"
   },
   {
     "characters": [
+      "Locke",
       "Impresario",
       "Master",
-      "Celes",
-      "Locke"
+      "Celes"
     ],
     "content": [
       {
@@ -3696,14 +3696,14 @@
         "Locke": "Who's this \"Wandering...\"? what's-his-name?"
       }
     ],
-    "summary": "Characters: Impresario, Master, Celes, Locke. Starts with: Maria!?... Ends with: Who's this \"Wandering...\"? what's-his-name?"
+    "summary": "Characters: Locke, Impresario, Master, Celes. Starts with: Maria!?... Ends with: Who's this \"Wandering...\"? what's-his-name?"
   },
   {
     "characters": [
+      "Celes",
       "Impresario",
       "Master",
-      "Locke",
-      "Celes"
+      "Locke"
     ],
     "content": [
       {
@@ -3734,14 +3734,14 @@
         "Impresario": "Ah! You again!"
       }
     ],
-    "summary": "Characters: Impresario, Master, Locke, Celes. Starts with: Who's this \"Wandering...\"? what's-his-name?... Ends with: Ah! You again!"
+    "summary": "Characters: Celes, Impresario, Master, Locke. Starts with: Who's this \"Wandering...\"? what's-his-name?... Ends with: Ah! You again!"
   },
   {
     "characters": [
-      "Impresario",
       "Ultros",
-      "Locke",
-      "Celes"
+      "Celes",
+      "Impresario",
+      "Locke"
     ],
     "content": [
       {
@@ -3802,12 +3802,12 @@
         "Ultros": "Mwa, ha, ha! I'll pretend to be Setzer and foil their little plan!"
       }
     ],
-    "summary": "Characters: Impresario, Ultros, Locke, Celes. Starts with: Ah! You again!... Ends with: Mwa, ha, ha! I'll pretend to be Setzer and foil their little plan!"
+    "summary": "Characters: Ultros, Celes, Impresario, Locke. Starts with: Ah! You again!... Ends with: Mwa, ha, ha! I'll pretend to be Setzer and foil their little plan!"
   },
   {
     "characters": [
-      "Maria",
       "Ultros",
+      "Maria",
       "Draco",
       "Locke"
     ],
@@ -3840,13 +3840,13 @@
         "Maria": "Oh my hero, so far away now. Will I ever see your smile? Love goes away, like night into day. It's just a fading dream..."
       }
     ],
-    "summary": "Characters: Maria, Ultros, Draco, Locke. Starts with: Mwa, ha, ha! I'll pretend to be Setzer and foil their little plan!... Ends with: Oh my hero, so far away now. Will I ever see your smile? Love goes away, like night into day. It's just a fading dream..."
+    "summary": "Characters: Ultros, Maria, Draco, Locke. Starts with: Mwa, ha, ha! I'll pretend to be Setzer and foil their little plan!... Ends with: Oh my hero, so far away now. Will I ever see your smile? Love goes away, like night into day. It's just a fading dream..."
   },
   {
     "characters": [
+      "Ralse",
       "Maria",
       "Draco",
-      "Ralse",
       "Chancellor"
     ],
     "content": [
@@ -3890,13 +3890,13 @@
         "Ralse": "Impossible!"
       }
     ],
-    "summary": "Characters: Maria, Draco, Ralse, Chancellor. Starts with: Oh my hero, so far away now. Will I ever see your smile? Love goes away, like night into day. It's just a fading dream...... Ends with: Impossible!"
+    "summary": "Characters: Ralse, Maria, Draco, Chancellor. Starts with: Oh my hero, so far away now. Will I ever see your smile? Love goes away, like night into day. It's just a fading dream...... Ends with: Impossible!"
   },
   {
     "characters": [
+      "Ralse",
       "Maria",
       "Draco",
-      "Ralse",
       "Locke"
     ],
     "content": [
@@ -3934,14 +3934,14 @@
         "Locke": "Aye yai yai! Izzat...you!?"
       }
     ],
-    "summary": "Characters: Maria, Draco, Ralse, Locke. Starts with: Impossible!... Ends with: Aye yai yai! Izzat...you!?"
+    "summary": "Characters: Ralse, Maria, Draco, Locke. Starts with: Impossible!... Ends with: Aye yai yai! Izzat...you!?"
   },
   {
     "characters": [
-      "Impresario",
       "Ultros",
-      "Locke",
-      "Celes"
+      "Celes",
+      "Impresario",
+      "Locke"
     ],
     "content": [
       {
@@ -3990,12 +3990,12 @@
         "Ultros": "Mwa ha ha! Let's see if Maria can shrug THIS off! N'ghaaa! This is heavier than I thought! It'll take me 5 minutes to drop it!"
       }
     ],
-    "summary": "Characters: Impresario, Ultros, Locke, Celes. Starts with: Aye yai yai! Izzat...you!?... Ends with: Mwa ha ha! Let's see if Maria can shrug THIS off! N'ghaaa! This is heavier than I thought! It'll take me 5 minutes to drop it!"
+    "summary": "Characters: Ultros, Celes, Impresario, Locke. Starts with: Aye yai yai! Izzat...you!?... Ends with: Mwa ha ha! Let's see if Maria can shrug THIS off! N'ghaaa! This is heavier than I thought! It'll take me 5 minutes to drop it!"
   },
   {
     "characters": [
-      "Impresario",
       "Ultros",
+      "Impresario",
       "Setzer",
       "Locke"
     ],
@@ -4046,14 +4046,14 @@
         "Setzer": "I'm a man of my word, music man!"
       }
     ],
-    "summary": "Characters: Impresario, Ultros, Setzer, Locke. Starts with: Mwa ha ha! Let's see if Maria can shrug THIS off! N'ghaaa! This is heavier than I thought! It'll take me 5 minutes to drop it!... Ends with: I'm a man of my word, music man!"
+    "summary": "Characters: Ultros, Impresario, Setzer, Locke. Starts with: Mwa ha ha! Let's see if Maria can shrug THIS off! N'ghaaa! This is heavier than I thought! It'll take me 5 minutes to drop it!... Ends with: I'm a man of my word, music man!"
   },
   {
     "characters": [
-      "Impresario",
+      "Locke",
       "Setzer",
-      "Celes",
-      "Locke"
+      "Impresario",
+      "Celes"
     ],
     "content": [
       {
@@ -4084,14 +4084,14 @@
         "Locke": "What a performance!"
       }
     ],
-    "summary": "Characters: Impresario, Setzer, Celes, Locke. Starts with: I'm a man of my word, music man!... Ends with: What a performance!"
+    "summary": "Characters: Locke, Setzer, Impresario, Celes. Starts with: I'm a man of my word, music man!... Ends with: What a performance!"
   },
   {
     "characters": [
-      "Setzer",
-      "Locke",
+      "Man 2",
       "Celes",
-      "Man 2"
+      "Setzer",
+      "Locke"
     ],
     "content": [
       {
@@ -4230,14 +4230,14 @@
         "Man 2": "Shhh I'm a Returner sympathizer! I've heard of you While I distract the soldiers, climb onto the steel tower from this box, and enter the facility!"
       }
     ],
-    "summary": "Characters: Setzer, Locke, Celes, Man 2. Starts with: What a performance!... Ends with: Shhh I'm a Returner sympathizer! I've heard of you While I distract the soldiers, climb onto the steel tower from this box, and enter the facility!"
+    "summary": "Characters: Man 2, Celes, Setzer, Locke. Starts with: What a performance!... Ends with: Shhh I'm a Returner sympathizer! I've heard of you While I distract the soldiers, climb onto the steel tower from this box, and enter the facility!"
   },
   {
     "characters": [
+      "Ifrit",
       "Kefka",
-      "Soldier",
       "Man 2",
-      "Ifrit"
+      "Soldier"
     ],
     "content": [
       {
@@ -4268,14 +4268,14 @@
         "Ifrit": "Hmmmm..."
       }
     ],
-    "summary": "Characters: Kefka, Soldier, Man 2, Ifrit. Starts with: Shhh I'm a Returner sympathizer! I've heard of you While I distract the soldiers, climb onto the steel tower from this box, and enter the facility!... Ends with: Hmmmm..."
+    "summary": "Characters: Ifrit, Kefka, Man 2, Soldier. Starts with: Shhh I'm a Returner sympathizer! I've heard of you While I distract the soldiers, climb onto the steel tower from this box, and enter the facility!... Ends with: Hmmmm..."
   },
   {
     "characters": [
-      "Cid",
-      "Maduin",
+      "Ifrit",
       "Shiva",
-      "Ifrit"
+      "Cid",
+      "Maduin"
     ],
     "content": [
       {
@@ -4300,13 +4300,13 @@
         "Cid": "What are you doing there?"
       }
     ],
-    "summary": "Characters: Cid, Maduin, Shiva, Ifrit. Starts with: Hmmmm...... Ends with: What are you doing there?"
+    "summary": "Characters: Ifrit, Shiva, Cid, Maduin. Starts with: Hmmmm...... Ends with: What are you doing there?"
   },
   {
     "characters": [
+      "Locke",
       "Cid",
       "Kefka",
-      "Locke",
       "Celes"
     ],
     "content": [
@@ -4341,14 +4341,14 @@
         "Kefka": "(laughs) So that's it! Magicite... Cid you miserable blockhead! Now... General Celes!! The game's over. Bring me those Magicite shards!"
       }
     ],
-    "summary": "Characters: Cid, Kefka, Locke, Celes. Starts with: What are you doing there?... Ends with: (laughs) So that's it! Magicite... Cid you miserable blockhead! Now... General Celes!! The game's over. Bring me those Magicite shards!"
+    "summary": "Characters: Locke, Cid, Kefka, Celes. Starts with: What are you doing there?... Ends with: (laughs) So that's it! Magicite... Cid you miserable blockhead! Now... General Celes!! The game's over. Bring me those Magicite shards!"
   },
   {
     "characters": [
       "Kefka",
+      "Celes",
       "Cid",
-      "Locke",
-      "Celes"
+      "Locke"
     ],
     "content": [
       {
@@ -4388,13 +4388,13 @@
         "Cid": "Ooh, ooh... What happened?"
       }
     ],
-    "summary": "Characters: Kefka, Cid, Locke, Celes. Starts with: (laughs) So that's it! Magicite... Cid you miserable blockhead! Now... General Celes!! The game's over. Bring me those Magicite shards!... Ends with: Ooh, ooh... What happened?"
+    "summary": "Characters: Kefka, Celes, Cid, Locke. Starts with: (laughs) So that's it! Magicite... Cid you miserable blockhead! Now... General Celes!! The game's over. Bring me those Magicite shards!... Ends with: Ooh, ooh... What happened?"
   },
   {
     "characters": [
-      "Cid",
       "Kefka",
       "Setzer",
+      "Cid",
       "Locke"
     ],
     "content": [
@@ -4438,14 +4438,14 @@
         "Kefka": "Crud! What a mess!! I don't think so...! You won't get away!"
       }
     ],
-    "summary": "Characters: Cid, Kefka, Setzer, Locke. Starts with: Ooh, ooh... What happened?... Ends with: Crud! What a mess!! I don't think so...! You won't get away!"
+    "summary": "Characters: Kefka, Setzer, Cid, Locke. Starts with: Ooh, ooh... What happened?... Ends with: Crud! What a mess!! I don't think so...! You won't get away!"
   },
   {
     "characters": [
       "Kefka",
+      "Terra",
       "Setzer",
-      "Locke",
-      "Terra"
+      "Locke"
     ],
     "content": [
       {
@@ -4482,13 +4482,13 @@
         "Terra": "Father...? I remember it all... I was raised in the Espers's world."
       }
     ],
-    "summary": "Characters: Kefka, Setzer, Locke, Terra. Starts with: Crud! What a mess!! I don't think so...! You won't get away!... Ends with: Father...? I remember it all... I was raised in the Espers's world."
+    "summary": "Characters: Kefka, Terra, Setzer, Locke. Starts with: Crud! What a mess!! I don't think so...! You won't get away!... Ends with: Father...? I remember it all... I was raised in the Espers's world."
   },
   {
     "characters": [
+      "Terra",
       "Madonna",
       "Maduin",
-      "Terra",
       "Fairy"
     ],
     "content": [
@@ -4517,13 +4517,13 @@
         "Madonna": "You're... an Esper? What's that pendant for?"
       }
     ],
-    "summary": "Characters: Madonna, Maduin, Terra, Fairy. Starts with: Father...? I remember it all... I was raised in the Espers's world.... Ends with: You're... an Esper? What's that pendant for?"
+    "summary": "Characters: Terra, Madonna, Maduin, Fairy. Starts with: Father...? I remember it all... I was raised in the Espers's world.... Ends with: You're... an Esper? What's that pendant for?"
   },
   {
     "characters": [
+      "Youth",
       "Madonna",
       "Maduin",
-      "Youth",
       "Gestahl"
     ],
     "content": [
@@ -4618,14 +4618,14 @@
         "Gestahl": "Aha! We've finally found it! Those ancient writings told us of this world, and described the awesome magical properties of these beasts! Grab them! Riches to any man who captures an Esper! Go!"
       }
     ],
-    "summary": "Characters: Madonna, Maduin, Youth, Gestahl. Starts with: You're... an Esper? What's that pendant for?... Ends with: Aha! We've finally found it! Those ancient writings told us of this world, and described the awesome magical properties of these beasts! Grab them! Riches to any man who captures an Esper! Go!"
+    "summary": "Characters: Youth, Madonna, Maduin, Gestahl. Starts with: You're... an Esper? What's that pendant for?... Ends with: Aha! We've finally found it! Those ancient writings told us of this world, and described the awesome magical properties of these beasts! Grab them! Riches to any man who captures an Esper! Go!"
   },
   {
     "characters": [
-      "Madonna",
-      "Gestahl",
       "Esper Elder",
-      "Maduin"
+      "Madonna",
+      "Maduin",
+      "Gestahl"
     ],
     "content": [
       {
@@ -4656,14 +4656,14 @@
         "Madonna": "I for one will not miss the other side."
       }
     ],
-    "summary": "Characters: Madonna, Gestahl, Esper Elder, Maduin. Starts with: Aha! We've finally found it! Those ancient writings told us of this world, and described the awesome magical properties of these beasts! Grab them! Riches to any man who captures an Esper! Go!... Ends with: I for one will not miss the other side."
+    "summary": "Characters: Esper Elder, Madonna, Maduin, Gestahl. Starts with: Aha! We've finally found it! Those ancient writings told us of this world, and described the awesome magical properties of these beasts! Grab them! Riches to any man who captures an Esper! Go!... Ends with: I for one will not miss the other side."
   },
   {
     "characters": [
+      "Wolf",
       "Madonna",
       "Maduin",
-      "Esper Elder",
-      "Wolf"
+      "Esper Elder"
     ],
     "content": [
       {
@@ -4679,14 +4679,14 @@
         "Maduin": "Nonsense!"
       }
     ],
-    "summary": "Characters: Madonna, Maduin, Esper Elder, Wolf. Starts with: I for one will not miss the other side.... Ends with: Nonsense!"
+    "summary": "Characters: Wolf, Madonna, Maduin, Esper Elder. Starts with: I for one will not miss the other side.... Ends with: Nonsense!"
   },
   {
     "characters": [
-      "Gestahl",
+      "Wolf",
       "Maduin",
-      "Soldier",
-      "Wolf"
+      "Gestahl",
+      "Soldier"
     ],
     "content": [
       {
@@ -4714,14 +4714,14 @@
         "Gestahl": "Shriek!!! Just when we were in reach of a veritable bonanza...!"
       }
     ],
-    "summary": "Characters: Gestahl, Maduin, Soldier, Wolf. Starts with: Nonsense!... Ends with: Shriek!!! Just when we were in reach of a veritable bonanza...!"
+    "summary": "Characters: Wolf, Maduin, Gestahl, Soldier. Starts with: Nonsense!... Ends with: Shriek!!! Just when we were in reach of a veritable bonanza...!"
   },
   {
     "characters": [
-      "Madonna",
-      "Gestahl",
       "Terra",
-      "Maduin"
+      "Madonna",
+      "Maduin",
+      "Gestahl"
     ],
     "content": [
       {
@@ -4767,13 +4767,13 @@
         "Terra": "That was my father...? I'm the product of an Esper and a human... That's where I got my powers... Now I understand... I finally feel I can begin to control this power of mine..."
       }
     ],
-    "summary": "Characters: Madonna, Gestahl, Terra, Maduin. Starts with: Shriek!!! Just when we were in reach of a veritable bonanza...!... Ends with: That was my father...? I'm the product of an Esper and a human... That's where I got my powers... Now I understand... I finally feel I can begin to control this power of mine..."
+    "summary": "Characters: Terra, Madonna, Maduin, Gestahl. Starts with: Shriek!!! Just when we were in reach of a veritable bonanza...!... Ends with: That was my father...? I'm the product of an Esper and a human... That's where I got my powers... Now I understand... I finally feel I can begin to control this power of mine..."
   },
   {
     "characters": [
-      "Setzer",
-      "Terra",
       "Sabin",
+      "Terra",
+      "Setzer",
       "Locke"
     ],
     "content": [
@@ -4796,12 +4796,12 @@
         "Setzer": "The airship's ready!"
       }
     ],
-    "summary": "Characters: Setzer, Terra, Sabin, Locke. Starts with: That was my father...? I'm the product of an Esper and a human... That's where I got my powers... Now I understand... I finally feel I can begin to control this power of mine...... Ends with: The airship's ready!"
+    "summary": "Characters: Sabin, Terra, Setzer, Locke. Starts with: That was my father...? I'm the product of an Esper and a human... That's where I got my powers... Now I understand... I finally feel I can begin to control this power of mine...... Ends with: The airship's ready!"
   },
   {
     "characters": [
-      "Terra",
       "Guard",
+      "Terra",
       "Setzer",
       "Banon"
     ],
@@ -4831,14 +4831,14 @@
         "Banon": "Oh, you're here! The people of Narshe have finally decided to battle the Empire. How did it go at Vector...?"
       }
     ],
-    "summary": "Characters: Terra, Guard, Setzer, Banon. Starts with: The airship's ready!... Ends with: Oh, you're here! The people of Narshe have finally decided to battle the Empire. How did it go at Vector...?"
+    "summary": "Characters: Guard, Terra, Setzer, Banon. Starts with: The airship's ready!... Ends with: Oh, you're here! The people of Narshe have finally decided to battle the Empire. How did it go at Vector...?"
   },
   {
     "characters": [
-      "Banon",
-      "Kefka",
+      "Arvis",
       "Terra",
-      "Arvis"
+      "Banon",
+      "Kefka"
     ],
     "content": [
       {
@@ -4875,13 +4875,13 @@
         "Kefka": "(laughs)"
       }
     ],
-    "summary": "Characters: Banon, Kefka, Terra, Arvis. Starts with: Oh, you're here! The people of Narshe have finally decided to battle the Empire. How did it go at Vector...?... Ends with: (laughs)"
+    "summary": "Characters: Arvis, Terra, Banon, Kefka. Starts with: Oh, you're here! The people of Narshe have finally decided to battle the Empire. How did it go at Vector...?... Ends with: (laughs)"
   },
   {
     "characters": [
       "Kefka",
-      "Setzer",
       "Terra",
+      "Setzer",
       "Locke"
     ],
     "content": [
@@ -4934,13 +4934,13 @@
         "Locke": "What's wrong, Terra?"
       }
     ],
-    "summary": "Characters: Kefka, Setzer, Terra, Locke. Starts with: (laughs)... Ends with: What's wrong, Terra?"
+    "summary": "Characters: Kefka, Terra, Setzer, Locke. Starts with: (laughs)... Ends with: What's wrong, Terra?"
   },
   {
     "characters": [
+      "Edgar",
       "Terra",
       "Setzer",
-      "Edgar",
       "Locke"
     ],
     "content": [
@@ -4987,14 +4987,14 @@
         "Edgar": "Um......Setzer!!!! I've lost control!!"
       }
     ],
-    "summary": "Characters: Terra, Setzer, Edgar, Locke. Starts with: What's wrong, Terra?... Ends with: Um......Setzer!!!! I've lost control!!"
+    "summary": "Characters: Edgar, Terra, Setzer, Locke. Starts with: What's wrong, Terra?... Ends with: Um......Setzer!!!! I've lost control!!"
   },
   {
     "characters": [
-      "Guard",
-      "Gestahl",
       "Edgar",
-      "Cid"
+      "Guard",
+      "Cid",
+      "Gestahl"
     ],
     "content": [
       {
@@ -5016,7 +5016,7 @@
         "Cid": "The Emperor's had a change of heart..."
       }
     ],
-    "summary": "Characters: Guard, Gestahl, Edgar, Cid. Starts with: Um......Setzer!!!! I've lost control!!... Ends with: The Emperor's had a change of heart..."
+    "summary": "Characters: Edgar, Guard, Cid, Gestahl. Starts with: Um......Setzer!!!! I've lost control!!... Ends with: The Emperor's had a change of heart..."
   },
   {
     "characters": [
@@ -5061,10 +5061,10 @@
   },
   {
     "characters": [
+      "Leo",
       "Cid",
       "Gestahl",
-      "Trooper",
-      "Leo"
+      "Trooper"
     ],
     "content": [
       {
@@ -5128,14 +5128,14 @@
         "Leo": "I'm General Leo. Nice to meet you. I'll be waiting for you in Albrook."
       }
     ],
-    "summary": "Characters: Cid, Gestahl, Trooper, Leo. Starts with: This way, please.... Ends with: I'm General Leo. Nice to meet you. I'll be waiting for you in Albrook."
+    "summary": "Characters: Leo, Cid, Gestahl, Trooper. Starts with: This way, please.... Ends with: I'm General Leo. Nice to meet you. I'll be waiting for you in Albrook."
   },
   {
     "characters": [
+      "Terra",
       "Leo",
       "Gestahl",
-      "Locke",
-      "Terra"
+      "Locke"
     ],
     "content": [
       {
@@ -5151,12 +5151,12 @@
         "Terra": "Locke... Thank you..."
       }
     ],
-    "summary": "Characters: Leo, Gestahl, Locke, Terra. Starts with: I'm General Leo. Nice to meet you. I'll be waiting for you in Albrook.... Ends with: Locke... Thank you..."
+    "summary": "Characters: Terra, Leo, Gestahl, Locke. Starts with: I'm General Leo. Nice to meet you. I'll be waiting for you in Albrook.... Ends with: Locke... Thank you..."
   },
   {
     "characters": [
-      "Cyan",
       "Edgar",
+      "Cyan",
       "Terra",
       "Locke"
     ],
@@ -5174,13 +5174,13 @@
         "Cyan": "We'll stay here and investigate."
       }
     ],
-    "summary": "Characters: Cyan, Edgar, Terra, Locke. Starts with: Locke... Thank you...... Ends with: We'll stay here and investigate."
+    "summary": "Characters: Edgar, Cyan, Terra, Locke. Starts with: Locke... Thank you...... Ends with: We'll stay here and investigate."
   },
   {
     "characters": [
       "Edgar",
-      "Cid",
       "Cyan",
+      "Cid",
       "Locke"
     ],
     "content": [
@@ -5209,14 +5209,14 @@
         "Cid": "Wow, what a ship!"
       }
     ],
-    "summary": "Characters: Edgar, Cid, Cyan, Locke. Starts with: We'll stay here and investigate.... Ends with: Wow, what a ship!"
+    "summary": "Characters: Edgar, Cyan, Cid, Locke. Starts with: We'll stay here and investigate.... Ends with: Wow, what a ship!"
   },
   {
     "characters": [
-      "Cid",
+      "Terra",
       "Setzer",
-      "Leo",
-      "Terra"
+      "Cid",
+      "Leo"
     ],
     "content": [
       {
@@ -5268,14 +5268,14 @@
         "Leo": "There you are. Another of the Empire's generals, and a person I hired in town will be traveling with us. Let me introduce... General Celes... and Shadow."
       }
     ],
-    "summary": "Characters: Cid, Setzer, Leo, Terra. Starts with: Wow, what a ship!... Ends with: There you are. Another of the Empire's generals, and a person I hired in town will be traveling with us. Let me introduce... General Celes... and Shadow."
+    "summary": "Characters: Terra, Setzer, Cid, Leo. Starts with: Wow, what a ship!... Ends with: There you are. Another of the Empire's generals, and a person I hired in town will be traveling with us. Let me introduce... General Celes... and Shadow."
   },
   {
     "characters": [
-      "Leo",
-      "Locke",
       "Celes",
-      "Terra"
+      "Terra",
+      "Leo",
+      "Locke"
     ],
     "content": [
       {
@@ -5300,14 +5300,14 @@
         "Celes": "....."
       }
     ],
-    "summary": "Characters: Leo, Locke, Celes, Terra. Starts with: There you are. Another of the Empire's generals, and a person I hired in town will be traveling with us. Let me introduce... General Celes... and Shadow.... Ends with: ....."
+    "summary": "Characters: Celes, Terra, Leo, Locke. Starts with: There you are. Another of the Empire's generals, and a person I hired in town will be traveling with us. Let me introduce... General Celes... and Shadow.... Ends with: ....."
   },
   {
     "characters": [
-      "Leo",
       "Locke",
-      "Celes",
-      "Innkeeper"
+      "Innkeeper",
+      "Leo",
+      "Celes"
     ],
     "content": [
       {
@@ -5350,13 +5350,13 @@
         "Leo": "Right. Let's go."
       }
     ],
-    "summary": "Characters: Leo, Locke, Celes, Innkeeper. Starts with: ........ Ends with: Right. Let's go."
+    "summary": "Characters: Locke, Innkeeper, Leo, Celes. Starts with: ........ Ends with: Right. Let's go."
   },
   {
     "characters": [
-      "Leo",
-      "Soldier",
       "Terra",
+      "Soldier",
+      "Leo",
       "Shadow"
     ],
     "content": [
@@ -5415,14 +5415,14 @@
         "Shadow": "Thought I'd sleep out under the stars."
       }
     ],
-    "summary": "Characters: Leo, Soldier, Terra, Shadow. Starts with: Right. Let's go.... Ends with: Thought I'd sleep out under the stars."
+    "summary": "Characters: Terra, Soldier, Leo, Shadow. Starts with: Right. Let's go.... Ends with: Thought I'd sleep out under the stars."
   },
   {
     "characters": [
-      "Leo",
       "Terra",
-      "Locke",
-      "Shadow"
+      "Leo",
+      "Shadow",
+      "Locke"
     ],
     "content": [
       {
@@ -5456,14 +5456,14 @@
         "Leo": "We're almost at Crescent Island. When we disembark, we'll split into two groups. Celes and I will form one group. Terra, you go with Locke and Shadow. If you spot the Espers, report at once!"
       }
     ],
-    "summary": "Characters: Leo, Terra, Locke, Shadow. Starts with: Thought I'd sleep out under the stars.... Ends with: We're almost at Crescent Island. When we disembark, we'll split into two groups. Celes and I will form one group. Terra, you go with Locke and Shadow. If you spot the Espers, report at once!"
+    "summary": "Characters: Terra, Leo, Shadow, Locke. Starts with: Thought I'd sleep out under the stars.... Ends with: We're almost at Crescent Island. When we disembark, we'll split into two groups. Celes and I will form one group. Terra, you go with Locke and Shadow. If you spot the Espers, report at once!"
   },
   {
     "characters": [
-      "Strago",
+      "Celes",
       "Leo",
-      "Locke",
-      "Celes"
+      "Strago",
+      "Locke"
     ],
     "content": [
       {
@@ -5497,14 +5497,14 @@
         "Strago": "Espers? Espers... Hmm... Not really familiar with that word."
       }
     ],
-    "summary": "Characters: Strago, Leo, Locke, Celes. Starts with: We're almost at Crescent Island. When we disembark, we'll split into two groups. Celes and I will form one group. Terra, you go with Locke and Shadow. If you spot the Espers, report at once!... Ends with: Espers? Espers... Hmm... Not really familiar with that word."
+    "summary": "Characters: Celes, Leo, Strago, Locke. Starts with: We're almost at Crescent Island. When we disembark, we'll split into two groups. Celes and I will form one group. Terra, you go with Locke and Shadow. If you spot the Espers, report at once!... Ends with: Espers? Espers... Hmm... Not really familiar with that word."
   },
   {
     "characters": [
       "Relm",
+      "Shadow",
       "Strago",
-      "Locke",
-      "Shadow"
+      "Locke"
     ],
     "content": [
       {
@@ -5538,14 +5538,14 @@
         "Shadow": "Get away. He bites."
       }
     ],
-    "summary": "Characters: Relm, Strago, Locke, Shadow. Starts with: Espers? Espers... Hmm... Not really familiar with that word.... Ends with: Get away. He bites."
+    "summary": "Characters: Relm, Shadow, Strago, Locke. Starts with: Espers? Espers... Hmm... Not really familiar with that word.... Ends with: Get away. He bites."
   },
   {
     "characters": [
       "Relm",
-      "Strago",
       "Locke",
-      "Shadow"
+      "Shadow",
+      "Strago"
     ],
     "content": [
       {
@@ -5582,14 +5582,14 @@
         "Locke": "Hmmm..."
       }
     ],
-    "summary": "Characters: Relm, Strago, Locke, Shadow. Starts with: Get away. He bites.... Ends with: Hmmm..."
+    "summary": "Characters: Relm, Locke, Shadow, Strago. Starts with: Get away. He bites.... Ends with: Hmmm..."
   },
   {
     "characters": [
+      "Terra",
       "Shadow",
       "Strago",
-      "Locke",
-      "Terra"
+      "Locke"
     ],
     "content": [
       {
@@ -5614,14 +5614,14 @@
         "Shadow": "Interceptor! Come!"
       }
     ],
-    "summary": "Characters: Shadow, Strago, Locke, Terra. Starts with: Hmmm...... Ends with: Interceptor! Come!"
+    "summary": "Characters: Terra, Shadow, Strago, Locke. Starts with: Hmmm...... Ends with: Interceptor! Come!"
   },
   {
     "characters": [
       "Relm",
-      "Strago",
       "Terra",
-      "Shadow"
+      "Shadow",
+      "Strago"
     ],
     "content": [
       {
@@ -5640,13 +5640,13 @@
         "Terra": "Relm's in danger?"
       }
     ],
-    "summary": "Characters: Relm, Strago, Terra, Shadow. Starts with: Interceptor! Come!... Ends with: Relm's in danger?"
+    "summary": "Characters: Relm, Terra, Shadow, Strago. Starts with: Interceptor! Come!... Ends with: Relm's in danger?"
   },
   {
     "characters": [
+      "Terra",
       "Shadow",
       "Strago",
-      "Terra",
       "Locke"
     ],
     "content": [
@@ -5666,14 +5666,14 @@
         "Shadow": "Interceptor... Where are you?!"
       }
     ],
-    "summary": "Characters: Shadow, Strago, Terra, Locke. Starts with: Relm's in danger?... Ends with: Interceptor... Where are you?!"
+    "summary": "Characters: Terra, Shadow, Strago, Locke. Starts with: Relm's in danger?... Ends with: Interceptor... Where are you?!"
   },
   {
     "characters": [
-      "Mayor",
-      "Strago",
       "Locke",
-      "Shadow"
+      "Mayor",
+      "Shadow",
+      "Strago"
     ],
     "content": [
       {
@@ -5695,13 +5695,13 @@
         "Mayor": "Magic is forbidden!"
       }
     ],
-    "summary": "Characters: Mayor, Strago, Locke, Shadow. Starts with: Interceptor... Where are you?!... Ends with: Magic is forbidden!"
+    "summary": "Characters: Locke, Mayor, Shadow, Strago. Starts with: Interceptor... Where are you?!... Ends with: Magic is forbidden!"
   },
   {
     "characters": [
       "Mayor",
-      "Strago",
       "Terra",
+      "Strago",
       "Locke"
     ],
     "content": [
@@ -5733,14 +5733,14 @@
         "Locke": "Count me in. You'd better stay out here, gramps."
       }
     ],
-    "summary": "Characters: Mayor, Strago, Terra, Locke. Starts with: Magic is forbidden!... Ends with: Count me in. You'd better stay out here, gramps."
+    "summary": "Characters: Mayor, Terra, Strago, Locke. Starts with: Magic is forbidden!... Ends with: Count me in. You'd better stay out here, gramps."
   },
   {
     "characters": [
       "Relm",
+      "Terra",
       "Strago",
-      "Locke",
-      "Terra"
+      "Locke"
     ],
     "content": [
       {
@@ -5798,13 +5798,13 @@
         "Terra": "Even though the only difference was that you could use magic...?"
       }
     ],
-    "summary": "Characters: Relm, Strago, Locke, Terra. Starts with: Count me in. You'd better stay out here, gramps.... Ends with: Even though the only difference was that you could use magic...?"
+    "summary": "Characters: Relm, Terra, Strago, Locke. Starts with: Count me in. You'd better stay out here, gramps.... Ends with: Even though the only difference was that you could use magic...?"
   },
   {
     "characters": [
       "Relm",
-      "Strago",
       "Terra",
+      "Strago",
       "Locke"
     ],
     "content": [
@@ -5833,14 +5833,14 @@
         "Locke": "But... where do we start looking?"
       }
     ],
-    "summary": "Characters: Relm, Strago, Terra, Locke. Starts with: Even though the only difference was that you could use magic...?... Ends with: But... where do we start looking?"
+    "summary": "Characters: Relm, Terra, Strago, Locke. Starts with: Even though the only difference was that you could use magic...?... Ends with: But... where do we start looking?"
   },
   {
     "characters": [
+      "Terra",
       "Shadow",
       "Strago",
-      "Locke",
-      "Terra"
+      "Locke"
     ],
     "content": [
       {
@@ -5868,14 +5868,14 @@
         "Shadow": "Don't misunderstand me. I just wanted my dog back."
       }
     ],
-    "summary": "Characters: Shadow, Strago, Locke, Terra. Starts with: But... where do we start looking?... Ends with: Don't misunderstand me. I just wanted my dog back."
+    "summary": "Characters: Terra, Shadow, Strago, Locke. Starts with: But... where do we start looking?... Ends with: Don't misunderstand me. I just wanted my dog back."
   },
   {
     "characters": [
       "Strago",
-      "Locke",
       "Terra",
-      "Shadow"
+      "Shadow",
+      "Locke"
     ],
     "content": [
       {
@@ -5903,13 +5903,13 @@
         "Terra": "The\" Statues?!"
       }
     ],
-    "summary": "Characters: Strago, Locke, Terra, Shadow. Starts with: Don't misunderstand me. I just wanted my dog back.... Ends with: The\" Statues?!"
+    "summary": "Characters: Strago, Terra, Shadow, Locke. Starts with: Don't misunderstand me. I just wanted my dog back.... Ends with: The\" Statues?!"
   },
   {
     "characters": [
       "Relm",
-      "Strago",
       "Terra",
+      "Strago",
       "Locke"
     ],
     "content": [
@@ -5986,13 +5986,13 @@
         "Relm": "Are these... Espers?!"
       }
     ],
-    "summary": "Characters: Relm, Strago, Terra, Locke. Starts with: The\" Statues?!... Ends with: Are these... Espers?!"
+    "summary": "Characters: Relm, Terra, Strago, Locke. Starts with: The\" Statues?!... Ends with: Are these... Espers?!"
   },
   {
     "characters": [
       "Relm",
-      "Strago",
       "Terra",
+      "Strago",
       "Locke"
     ],
     "content": [
@@ -6009,14 +6009,14 @@
         "Locke": "Gramps, take Relm and clear outta here!"
       }
     ],
-    "summary": "Characters: Relm, Strago, Terra, Locke. Starts with: Are these... Espers?!... Ends with: Gramps, take Relm and clear outta here!"
+    "summary": "Characters: Relm, Terra, Strago, Locke. Starts with: Are these... Espers?!... Ends with: Gramps, take Relm and clear outta here!"
   },
   {
     "characters": [
-      "Relm",
       "Yura",
-      "Locke",
-      "Strago"
+      "Relm",
+      "Strago",
+      "Locke"
     ],
     "content": [
       {
@@ -6032,14 +6032,14 @@
         "Strago": "I sense some immense magical power in Terra... It... frightens me..."
       }
     ],
-    "summary": "Characters: Relm, Yura, Locke, Strago. Starts with: Gramps, take Relm and clear outta here!... Ends with: I sense some immense magical power in Terra... It... frightens me..."
+    "summary": "Characters: Yura, Relm, Strago, Locke. Starts with: Gramps, take Relm and clear outta here!... Ends with: I sense some immense magical power in Terra... It... frightens me..."
   },
   {
     "characters": [
       "Yura",
+      "Terra",
       "Strago",
-      "Locke",
-      "Terra"
+      "Locke"
     ],
     "content": [
       {
@@ -6055,13 +6055,13 @@
         "Terra": "Yes."
       }
     ],
-    "summary": "Characters: Yura, Strago, Locke, Terra. Starts with: I sense some immense magical power in Terra... It... frightens me...... Ends with: Yes."
+    "summary": "Characters: Yura, Terra, Strago, Locke. Starts with: I sense some immense magical power in Terra... It... frightens me...... Ends with: Yes."
   },
   {
     "characters": [
       "Yura",
-      "Strago",
       "Terra",
+      "Strago",
       "Locke"
     ],
     "content": [
@@ -6093,14 +6093,14 @@
         "Locke": "The past is history. The Empire seems to want to talk peace with you. Why not come with us?"
       }
     ],
-    "summary": "Characters: Yura, Strago, Terra, Locke. Starts with: Yes.... Ends with: The past is history. The Empire seems to want to talk peace with you. Why not come with us?"
+    "summary": "Characters: Yura, Terra, Strago, Locke. Starts with: Yes.... Ends with: The past is history. The Empire seems to want to talk peace with you. Why not come with us?"
   },
   {
     "characters": [
       "Yura",
-      "Locke",
+      "Terra",
       "Leo",
-      "Terra"
+      "Locke"
     ],
     "content": [
       {
@@ -6125,13 +6125,13 @@
         "Leo": "Locke... you're back! And you've made the Espers understand our desire for peace!"
       }
     ],
-    "summary": "Characters: Yura, Locke, Leo, Terra. Starts with: The past is history. The Empire seems to want to talk peace with you. Why not come with us?... Ends with: Locke... you're back! And you've made the Espers understand our desire for peace!"
+    "summary": "Characters: Yura, Terra, Leo, Locke. Starts with: The past is history. The Empire seems to want to talk peace with you. Why not come with us?... Ends with: Locke... you're back! And you've made the Espers understand our desire for peace!"
   },
   {
     "characters": [
-      "Leo",
       "Yura",
       "Celes",
+      "Leo",
       "Locke"
     ],
     "content": [
@@ -6157,13 +6157,13 @@
         "Celes": "Let's return to Vector."
       }
     ],
-    "summary": "Characters: Leo, Yura, Celes, Locke. Starts with: Locke... you're back! And you've made the Espers understand our desire for peace!... Ends with: Let's return to Vector."
+    "summary": "Characters: Yura, Celes, Leo, Locke. Starts with: Locke... you're back! And you've made the Espers understand our desire for peace!... Ends with: Let's return to Vector."
   },
   {
     "characters": [
+      "Locke",
       "Relm",
       "Strago",
-      "Locke",
       "Celes"
     ],
     "content": [
@@ -6183,14 +6183,14 @@
         "Strago": "Kids!!!"
       }
     ],
-    "summary": "Characters: Relm, Strago, Locke, Celes. Starts with: Let's return to Vector.... Ends with: Kids!!!"
+    "summary": "Characters: Locke, Relm, Strago, Celes. Starts with: Let's return to Vector.... Ends with: Kids!!!"
   },
   {
     "characters": [
-      "Gestahl",
-      "Strago",
       "Kefka",
-      "Leo"
+      "Gestahl",
+      "Leo",
+      "Strago"
     ],
     "content": [
       {
@@ -6239,14 +6239,14 @@
         "Gestahl": "Leo..."
       }
     ],
-    "summary": "Characters: Gestahl, Strago, Kefka, Leo. Starts with: Kids!!!... Ends with: Leo..."
+    "summary": "Characters: Kefka, Gestahl, Leo, Strago. Starts with: Kids!!!... Ends with: Leo..."
   },
   {
     "characters": [
-      "Leo",
-      "Gestahl",
       "Kefka",
-      "Terra"
+      "Terra",
+      "Leo",
+      "Gestahl"
     ],
     "content": [
       {
@@ -6322,13 +6322,13 @@
         "Terra": "General Leo... People only seem to want power. Do they really want to be like me? I... I wanted to learn so much more from you..."
       }
     ],
-    "summary": "Characters: Leo, Gestahl, Kefka, Terra. Starts with: Leo...... Ends with: General Leo... People only seem to want power. Do they really want to be like me? I... I wanted to learn so much more from you..."
+    "summary": "Characters: Kefka, Terra, Leo, Gestahl. Starts with: Leo...... Ends with: General Leo... People only seem to want power. Do they really want to be like me? I... I wanted to learn so much more from you..."
   },
   {
     "characters": [
       "Relm",
-      "Terra",
       "Celes",
+      "Terra",
       "Locke"
     ],
     "content": [
@@ -6351,7 +6351,7 @@
         "Relm": "I'll go with you."
       }
     ],
-    "summary": "Characters: Relm, Terra, Celes, Locke. Starts with: General Leo... People only seem to want power. Do they really want to be like me? I... I wanted to learn so much more from you...... Ends with: I'll go with you."
+    "summary": "Characters: Relm, Celes, Terra, Locke. Starts with: General Leo... People only seem to want power. Do they really want to be like me? I... I wanted to learn so much more from you...... Ends with: I'll go with you."
   },
   {
     "characters": [
@@ -6404,10 +6404,10 @@
   },
   {
     "characters": [
-      "Cyan",
       "Edgar",
-      "Locke",
-      "Sabin"
+      "Sabin",
+      "Cyan",
+      "Locke"
     ],
     "content": [
       {
@@ -6426,13 +6426,13 @@
         "Cyan": "Sir Leo?! Gone?! What a waste... He was their finest soldier..."
       }
     ],
-    "summary": "Characters: Cyan, Edgar, Locke, Sabin. Starts with: I got to know the gal who brought us tea. After a while, just blurted out the whole crooked plan.... Ends with: Sir Leo?! Gone?! What a waste... He was their finest soldier..."
+    "summary": "Characters: Edgar, Sabin, Cyan, Locke. Starts with: I got to know the gal who brought us tea. After a while, just blurted out the whole crooked plan.... Ends with: Sir Leo?! Gone?! What a waste... He was their finest soldier..."
   },
   {
     "characters": [
       "Edgar",
-      "Strago",
       "Cyan",
+      "Strago",
       "Locke"
     ],
     "content": [
@@ -6452,14 +6452,14 @@
         "Locke": "He's on of this town's citizens."
       }
     ],
-    "summary": "Characters: Edgar, Strago, Cyan, Locke. Starts with: Sir Leo?! Gone?! What a waste... He was their finest soldier...... Ends with: He's on of this town's citizens."
+    "summary": "Characters: Edgar, Cyan, Strago, Locke. Starts with: Sir Leo?! Gone?! What a waste... He was their finest soldier...... Ends with: He's on of this town's citizens."
   },
   {
     "characters": [
-      "Strago",
+      "Relm",
       "Terra",
-      "Locke",
-      "Relm"
+      "Strago",
+      "Locke"
     ],
     "content": [
       {
@@ -6475,14 +6475,14 @@
         "Relm": "Me too!"
       }
     ],
-    "summary": "Characters: Strago, Terra, Locke, Relm. Starts with: He's on of this town's citizens.... Ends with: Me too!"
+    "summary": "Characters: Relm, Terra, Strago, Locke. Starts with: He's on of this town's citizens.... Ends with: Me too!"
   },
   {
     "characters": [
-      "Relm",
-      "Strago",
       "Edgar",
-      "Sabin"
+      "Relm",
+      "Sabin",
+      "Strago"
     ],
     "content": [
       {
@@ -6519,14 +6519,14 @@
         "Edgar": "How old are you?"
       }
     ],
-    "summary": "Characters: Relm, Strago, Edgar, Sabin. Starts with: Me too!... Ends with: How old are you?"
+    "summary": "Characters: Edgar, Relm, Sabin, Strago. Starts with: Me too!... Ends with: How old are you?"
   },
   {
     "characters": [
-      "Relm",
-      "Strago",
       "Edgar",
-      "Setzer"
+      "Relm",
+      "Setzer",
+      "Strago"
     ],
     "content": [
       {
@@ -6551,13 +6551,13 @@
         "Strago": "NO!!!"
       }
     ],
-    "summary": "Characters: Relm, Strago, Edgar, Setzer. Starts with: How old are you?... Ends with: NO!!!"
+    "summary": "Characters: Edgar, Relm, Setzer, Strago. Starts with: How old are you?... Ends with: NO!!!"
   },
   {
     "characters": [
-      "Strago",
-      "Gestahl",
       "Terra",
+      "Gestahl",
+      "Strago",
       "Celes"
     ],
     "content": [
@@ -6580,14 +6580,14 @@
         "Terra": "The island... the world is groaning in pain..."
       }
     ],
-    "summary": "Characters: Strago, Gestahl, Terra, Celes. Starts with: NO!!!... Ends with: The island... the world is groaning in pain..."
+    "summary": "Characters: Terra, Gestahl, Strago, Celes. Starts with: NO!!!... Ends with: The island... the world is groaning in pain..."
   },
   {
     "characters": [
-      "Strago",
-      "Gestahl",
+      "Sabin",
       "Terra",
-      "Sabin"
+      "Gestahl",
+      "Strago"
     ],
     "content": [
       {
@@ -6630,14 +6630,14 @@
         "Sabin": "Hmm... Castle hasn't changed much... And yet it's all different... Mom and Dad are gone... Everyone's gone... Since that day..."
       }
     ],
-    "summary": "Characters: Strago, Gestahl, Terra, Sabin. Starts with: The island... the world is groaning in pain...... Ends with: Hmm... Castle hasn't changed much... And yet it's all different... Mom and Dad are gone... Everyone's gone... Since that day..."
+    "summary": "Characters: Sabin, Terra, Gestahl, Strago. Starts with: The island... the world is groaning in pain...... Ends with: Hmm... Castle hasn't changed much... And yet it's all different... Mom and Dad are gone... Everyone's gone... Since that day..."
   },
   {
     "characters": [
       "Edgar",
+      "Sabin",
       "Gestahl",
-      "Matron",
-      "Sabin"
+      "Matron"
     ],
     "content": [
       {
@@ -6737,14 +6737,14 @@
         "Gestahl": "Well, well... Fwa, ha, ha... Then you're just in time to perish. Behold! The Statues!"
       }
     ],
-    "summary": "Characters: Edgar, Gestahl, Matron, Sabin. Starts with: Hmm... Castle hasn't changed much... And yet it's all different... Mom and Dad are gone... Everyone's gone... Since that day...... Ends with: Well, well... Fwa, ha, ha... Then you're just in time to perish. Behold! The Statues!"
+    "summary": "Characters: Edgar, Sabin, Gestahl, Matron. Starts with: Hmm... Castle hasn't changed much... And yet it's all different... Mom and Dad are gone... Everyone's gone... Since that day...... Ends with: Well, well... Fwa, ha, ha... Then you're just in time to perish. Behold! The Statues!"
   },
   {
     "characters": [
       "Kefka",
+      "Shadow",
       "Gestahl",
-      "Celes",
-      "Shadow"
+      "Celes"
     ],
     "content": [
       {
@@ -6892,13 +6892,13 @@
         "Shadow": "Go! There are people counting on you! Don't worry about me! Run!! I can't stop this chain reaction! I'll see you again. Count on it!"
       }
     ],
-    "summary": "Characters: Kefka, Gestahl, Celes, Shadow. Starts with: Well, well... Fwa, ha, ha... Then you're just in time to perish. Behold! The Statues!... Ends with: Go! There are people counting on you! Don't worry about me! Run!! I can't stop this chain reaction! I'll see you again. Count on it!"
+    "summary": "Characters: Kefka, Shadow, Gestahl, Celes. Starts with: Well, well... Fwa, ha, ha... Then you're just in time to perish. Behold! The Statues!... Ends with: Go! There are people counting on you! Don't worry about me! Run!! I can't stop this chain reaction! I'll see you again. Count on it!"
   },
   {
     "characters": [
       "Kefka",
-      "Cid",
       "Setzer",
+      "Cid",
       "Shadow"
     ],
     "content": [
@@ -6942,13 +6942,13 @@
         "Cid": "Celes... at last...! You're finally awake!"
       }
     ],
-    "summary": "Characters: Kefka, Cid, Setzer, Shadow. Starts with: Go! There are people counting on you! Don't worry about me! Run!! I can't stop this chain reaction! I'll see you again. Count on it!... Ends with: Celes... at last...! You're finally awake!"
+    "summary": "Characters: Kefka, Setzer, Cid, Shadow. Starts with: Go! There are people counting on you! Don't worry about me! Run!! I can't stop this chain reaction! I'll see you again. Count on it!... Ends with: Celes... at last...! You're finally awake!"
   },
   {
     "characters": [
-      "Cid",
-      "Henchman",
       "Edgar",
+      "Henchman",
+      "Cid",
       "Celes"
     ],
     "content": [
@@ -7094,13 +7094,13 @@
         "Henchman": "G'ho ho, do we ever!"
       }
     ],
-    "summary": "Characters: Cid, Henchman, Edgar, Celes. Starts with: Celes... at last...! You're finally awake!... Ends with: G'ho ho, do we ever!"
+    "summary": "Characters: Edgar, Henchman, Cid, Celes. Starts with: Celes... at last...! You're finally awake!... Ends with: G'ho ho, do we ever!"
   },
   {
     "characters": [
-      "Henchmen",
       "Henchman",
       "Edgar",
+      "Henchmen",
       "Celes"
     ],
     "content": [
@@ -7156,14 +7156,14 @@
         "Henchmen": "But boss! That's dangerous!"
       }
     ],
-    "summary": "Characters: Henchmen, Henchman, Edgar, Celes. Starts with: G'ho ho, do we ever!... Ends with: But boss! That's dangerous!"
+    "summary": "Characters: Henchman, Edgar, Henchmen, Celes. Starts with: G'ho ho, do we ever!... Ends with: But boss! That's dangerous!"
   },
   {
     "characters": [
-      "Henchmen",
       "Edgar",
-      "Celes",
-      "Henchman"
+      "Henchmen",
+      "Henchman",
+      "Celes"
     ],
     "content": [
       {
@@ -7206,7 +7206,7 @@
         "Henchman": "Boss? Must have been eaten by that thing... It wasn't even much of a monster. Well let's go"
       }
     ],
-    "summary": "Characters: Henchmen, Edgar, Celes, Henchman. Starts with: But boss! That's dangerous!... Ends with: Boss? Must have been eaten by that thing... It wasn't even much of a monster. Well let's go"
+    "summary": "Characters: Edgar, Henchmen, Henchman, Celes. Starts with: But boss! That's dangerous!... Ends with: Boss? Must have been eaten by that thing... It wasn't even much of a monster. Well let's go"
   },
   {
     "characters": [
@@ -7245,8 +7245,8 @@
   },
   {
     "characters": [
-      "Daryl",
       "Edgar",
+      "Daryl",
       "Setzer",
       "Celes"
     ],
@@ -7348,12 +7348,12 @@
         "Edgar": "This is THE Falcon?"
       }
     ],
-    "summary": "Characters: Daryl, Edgar, Setzer, Celes. Starts with: You're alive!?... Ends with: This is THE Falcon?"
+    "summary": "Characters: Edgar, Daryl, Setzer, Celes. Starts with: You're alive!?... Ends with: This is THE Falcon?"
   },
   {
     "characters": [
-      "Mog",
       "Edgar",
+      "Mog",
       "Setzer",
       "Celes"
     ],
@@ -7407,14 +7407,14 @@
         "Mog": "That old psycho, Ramuh, came to me in a dream and told me to be expectin' you! And now... I'm ... gonna join your party!"
       }
     ],
-    "summary": "Characters: Mog, Edgar, Setzer, Celes. Starts with: This is THE Falcon?... Ends with: That old psycho, Ramuh, came to me in a dream and told me to be expectin' you! And now... I'm ... gonna join your party!"
+    "summary": "Characters: Edgar, Mog, Setzer, Celes. Starts with: This is THE Falcon?... Ends with: That old psycho, Ramuh, came to me in a dream and told me to be expectin' you! And now... I'm ... gonna join your party!"
   },
   {
     "characters": [
-      "Duncan",
       "Mog",
-      "Celes",
-      "Sabin"
+      "Sabin",
+      "Duncan",
+      "Celes"
     ],
     "content": [
       {
@@ -7469,14 +7469,14 @@
         "Duncan": "Wa, ha, ha... Why the surprised face? Did you think I'd... gone?"
       }
     ],
-    "summary": "Characters: Duncan, Mog, Celes, Sabin. Starts with: That old psycho, Ramuh, came to me in a dream and told me to be expectin' you! And now... I'm ... gonna join your party!... Ends with: Wa, ha, ha... Why the surprised face? Did you think I'd... gone?"
+    "summary": "Characters: Mog, Sabin, Duncan, Celes. Starts with: That old psycho, Ramuh, came to me in a dream and told me to be expectin' you! And now... I'm ... gonna join your party!... Ends with: Wa, ha, ha... Why the surprised face? Did you think I'd... gone?"
   },
   {
     "characters": [
       "Kid",
-      "Duncan",
+      "Sabin",
       "Terra",
-      "Sabin"
+      "Duncan"
     ],
     "content": [
       {
@@ -7507,14 +7507,14 @@
         "Terra": "Oh! I'm so glad to see that you're safe! I've missed you!"
       }
     ],
-    "summary": "Characters: Kid, Duncan, Terra, Sabin. Starts with: Wa, ha, ha... Why the surprised face? Did you think I'd... gone?... Ends with: Oh! I'm so glad to see that you're safe! I've missed you!"
+    "summary": "Characters: Kid, Sabin, Terra, Duncan. Starts with: Wa, ha, ha... Why the surprised face? Did you think I'd... gone?... Ends with: Oh! I'm so glad to see that you're safe! I've missed you!"
   },
   {
     "characters": [
+      "Kid",
       "Duane",
       "Terra",
-      "Katarin",
-      "Kid"
+      "Katarin"
     ],
     "content": [
       {
@@ -7542,14 +7542,14 @@
         "Kid": "Help!!! Run!!! Phunbaba's coming!!"
       }
     ],
-    "summary": "Characters: Duane, Terra, Katarin, Kid. Starts with: Oh! I'm so glad to see that you're safe! I've missed you!... Ends with: Help!!! Run!!! Phunbaba's coming!!"
+    "summary": "Characters: Kid, Duane, Terra, Katarin. Starts with: Oh! I'm so glad to see that you're safe! I've missed you!... Ends with: Help!!! Run!!! Phunbaba's coming!!"
   },
   {
     "characters": [
       "Kid",
+      "Katarin",
       "Duane",
-      "Terra",
-      "Katarin"
+      "Terra"
     ],
     "content": [
       {
@@ -7586,14 +7586,14 @@
         "Duane": "Katarin... I'm sorry. I didn't know how to handle this. I've been an awful husband... But I'm learning. Please, come back with me."
       }
     ],
-    "summary": "Characters: Kid, Duane, Terra, Katarin. Starts with: Help!!! Run!!! Phunbaba's coming!!... Ends with: Katarin... I'm sorry. I didn't know how to handle this. I've been an awful husband... But I'm learning. Please, come back with me."
+    "summary": "Characters: Kid, Katarin, Duane, Terra. Starts with: Help!!! Run!!! Phunbaba's coming!!... Ends with: Katarin... I'm sorry. I didn't know how to handle this. I've been an awful husband... But I'm learning. Please, come back with me."
   },
   {
     "characters": [
-      "Shadow",
+      "Little Girl",
       "Duane",
       "Terra",
-      "Little Girl"
+      "Shadow"
     ],
     "content": [
       {
@@ -7633,14 +7633,14 @@
         "Shadow": "The only thing I know how to do is fight..."
       }
     ],
-    "summary": "Characters: Shadow, Duane, Terra, Little Girl. Starts with: Katarin... I'm sorry. I didn't know how to handle this. I've been an awful husband... But I'm learning. Please, come back with me.... Ends with: The only thing I know how to do is fight..."
+    "summary": "Characters: Little Girl, Duane, Terra, Shadow. Starts with: Katarin... I'm sorry. I didn't know how to handle this. I've been an awful husband... But I'm learning. Please, come back with me.... Ends with: The only thing I know how to do is fight..."
   },
   {
     "characters": [
-      "Patriarch",
-      "Locke",
       "Rachel",
-      "Shadow"
+      "Patriarch",
+      "Shadow",
+      "Locke"
     ],
     "content": [
       {
@@ -7686,14 +7686,14 @@
         "Rachel": "Locke..."
       }
     ],
-    "summary": "Characters: Patriarch, Locke, Rachel, Shadow. Starts with: The only thing I know how to do is fight...... Ends with: Locke..."
+    "summary": "Characters: Rachel, Patriarch, Shadow, Locke. Starts with: The only thing I know how to do is fight...... Ends with: Locke..."
   },
   {
     "characters": [
-      "Odin",
-      "Locke",
       "Rachel",
-      "Celes"
+      "Celes",
+      "Odin",
+      "Locke"
     ],
     "content": [
       {
@@ -7772,14 +7772,14 @@
         "Odin": "Don't do it... You can't turn me into Magicite..."
       }
     ],
-    "summary": "Characters: Odin, Locke, Rachel, Celes. Starts with: Locke...... Ends with: Don't do it... You can't turn me into Magicite..."
+    "summary": "Characters: Rachel, Celes, Odin, Locke. Starts with: Locke...... Ends with: Don't do it... You can't turn me into Magicite..."
   },
   {
     "characters": [
-      "Umaro",
+      "Mog",
       "Cyan",
       "Odin",
-      "Mog"
+      "Umaro"
     ],
     "content": [
       {
@@ -7825,13 +7825,13 @@
         "Cyan": "Hey!! You're alive!?"
       }
     ],
-    "summary": "Characters: Umaro, Cyan, Odin, Mog. Starts with: Don't do it... You can't turn me into Magicite...... Ends with: Hey!! You're alive!?"
+    "summary": "Characters: Mog, Cyan, Odin, Umaro. Starts with: Don't do it... You can't turn me into Magicite...... Ends with: Hey!! You're alive!?"
   },
   {
     "characters": [
+      "Chadarnook",
       "Relm",
       "Cyan",
-      "Chadarnook",
       "Owzer"
     ],
     "content": [
@@ -7875,14 +7875,14 @@
         "Chadarnook": "G'fu, fu, fu... Who're these numbskulls? No one... NO ONE is going to remove me from this fine new painting!!"
       }
     ],
-    "summary": "Characters: Relm, Cyan, Chadarnook, Owzer. Starts with: Hey!! You're alive!?... Ends with: G'fu, fu, fu... Who're these numbskulls? No one... NO ONE is going to remove me from this fine new painting!!"
+    "summary": "Characters: Chadarnook, Relm, Cyan, Owzer. Starts with: Hey!! You're alive!?... Ends with: G'fu, fu, fu... Who're these numbskulls? No one... NO ONE is going to remove me from this fine new painting!!"
   },
   {
     "characters": [
+      "Owzer",
       "Relm",
       "Strago",
-      "Chadarnook",
-      "Owzer"
+      "Chadarnook"
     ],
     "content": [
       {
@@ -7931,14 +7931,14 @@
         "Strago": "Relm! Is that you, my dear? You're alive!!"
       }
     ],
-    "summary": "Characters: Relm, Strago, Chadarnook, Owzer. Starts with: G'fu, fu, fu... Who're these numbskulls? No one... NO ONE is going to remove me from this fine new painting!!... Ends with: Relm! Is that you, my dear? You're alive!!"
+    "summary": "Characters: Owzer, Relm, Strago, Chadarnook. Starts with: G'fu, fu, fu... Who're these numbskulls? No one... NO ONE is going to remove me from this fine new painting!!... Ends with: Relm! Is that you, my dear? You're alive!!"
   },
   {
     "characters": [
       "Relm",
+      "Gogo",
       "Strago",
-      "Curley",
-      "Gogo"
+      "Curley"
     ],
     "content": [
       {
@@ -7987,14 +7987,14 @@
         "Curley": "I'm Curley!"
       }
     ],
-    "summary": "Characters: Relm, Strago, Curley, Gogo. Starts with: Relm! Is that you, my dear? You're alive!!... Ends with: I'm Curley!"
+    "summary": "Characters: Relm, Gogo, Strago, Curley. Starts with: Relm! Is that you, my dear? You're alive!!... Ends with: I'm Curley!"
   },
   {
     "characters": [
-      "Curley",
-      "Moe",
       "Elayne",
-      "Larry"
+      "Moe",
+      "Larry",
+      "Curley"
     ],
     "content": [
       {
@@ -8013,14 +8013,14 @@
         "Elayne": "Please... Save my husband... Save Cyan..."
       }
     ],
-    "summary": "Characters: Curley, Moe, Elayne, Larry. Starts with: I'm Curley!... Ends with: Please... Save my husband... Save Cyan..."
+    "summary": "Characters: Elayne, Moe, Larry, Curley. Starts with: I'm Curley!... Ends with: Please... Save my husband... Save Cyan..."
   },
   {
     "characters": [
-      "Owain",
+      "Elayne",
       "Cyan",
-      "Wrexsoul",
-      "Elayne"
+      "Owain",
+      "Wrexsoul"
     ],
     "content": [
       {
@@ -8054,14 +8054,14 @@
         "Cyan": "Thanks be to you. I heard my wife and children calling out to me! Their voices finally gave me the strength and courage to come to grips with my own suffering."
       }
     ],
-    "summary": "Characters: Owain, Cyan, Wrexsoul, Elayne. Starts with: Please... Save my husband... Save Cyan...... Ends with: Thanks be to you. I heard my wife and children calling out to me! Their voices finally gave me the strength and courage to come to grips with my own suffering."
+    "summary": "Characters: Elayne, Cyan, Owain, Wrexsoul. Starts with: Please... Save my husband... Save Cyan...... Ends with: Thanks be to you. I heard my wife and children calling out to me! Their voices finally gave me the strength and courage to come to grips with my own suffering."
   },
   {
     "characters": [
-      "Relm",
-      "Owain",
+      "Elayne",
       "Cyan",
-      "Elayne"
+      "Owain",
+      "Relm"
     ],
     "content": [
       {
@@ -8110,14 +8110,14 @@
         "Relm": "Yea!! We're back! It's like old times!"
       }
     ],
-    "summary": "Characters: Relm, Owain, Cyan, Elayne. Starts with: Thanks be to you. I heard my wife and children calling out to me! Their voices finally gave me the strength and courage to come to grips with my own suffering.... Ends with: Yea!! We're back! It's like old times!"
+    "summary": "Characters: Elayne, Cyan, Owain, Relm. Starts with: Thanks be to you. I heard my wife and children calling out to me! Their voices finally gave me the strength and courage to come to grips with my own suffering.... Ends with: Yea!! We're back! It's like old times!"
   },
   {
     "characters": [
-      "Relm",
-      "Strago",
       "Edgar",
-      "Gungho"
+      "Relm",
+      "Gungho",
+      "Strago"
     ],
     "content": [
       {
@@ -8253,13 +8253,13 @@
         "Edgar": "It's time to break into Kefka's domain!"
       }
     ],
-    "summary": "Characters: Relm, Strago, Edgar, Gungho. Starts with: Yea!! We're back! It's like old times!... Ends with: It's time to break into Kefka's domain!"
+    "summary": "Characters: Edgar, Relm, Gungho, Strago. Starts with: Yea!! We're back! It's like old times!... Ends with: It's time to break into Kefka's domain!"
   },
   {
     "characters": [
-      "Strago",
       "Edgar",
       "Setzer",
+      "Strago",
       "Celes"
     ],
     "content": [
@@ -8282,13 +8282,13 @@
         "Strago": "The Espers... and magic, too, will most definitely disappear from this world."
       }
     ],
-    "summary": "Characters: Strago, Edgar, Setzer, Celes. Starts with: It's time to break into Kefka's domain!... Ends with: The Espers... and magic, too, will most definitely disappear from this world."
+    "summary": "Characters: Edgar, Setzer, Strago, Celes. Starts with: It's time to break into Kefka's domain!... Ends with: The Espers... and magic, too, will most definitely disappear from this world."
   },
   {
     "characters": [
-      "Strago",
-      "Kefka",
       "Edgar",
+      "Kefka",
+      "Strago",
       "Celes"
     ],
     "content": [
@@ -8320,7 +8320,7 @@
         "Kefka": "Welcome, friends!"
       }
     ],
-    "summary": "Characters: Strago, Kefka, Edgar, Celes. Starts with: The Espers... and magic, too, will most definitely disappear from this world.... Ends with: Welcome, friends!"
+    "summary": "Characters: Edgar, Kefka, Strago, Celes. Starts with: The Espers... and magic, too, will most definitely disappear from this world.... Ends with: Welcome, friends!"
   },
   {
     "characters": [
@@ -8384,8 +8384,8 @@
   {
     "characters": [
       "Edgar",
-      "Cyan",
       "Sabin",
+      "Cyan",
       "Shadow"
     ],
     "content": [
@@ -8402,14 +8402,14 @@
         "Sabin": "I have come to experience anew the love of my brother!"
       }
     ],
-    "summary": "Characters: Edgar, Cyan, Sabin, Shadow. Starts with: My family lives on inside me.... Ends with: I have come to experience anew the love of my brother!"
+    "summary": "Characters: Edgar, Sabin, Cyan, Shadow. Starts with: My family lives on inside me.... Ends with: I have come to experience anew the love of my brother!"
   },
   {
     "characters": [
-      "Strago",
+      "Sabin",
       "Mog",
-      "Celes",
-      "Sabin"
+      "Strago",
+      "Celes"
     ],
     "content": [
       {
@@ -8425,13 +8425,13 @@
         "Mog": "I have my friends here!"
       }
     ],
-    "summary": "Characters: Strago, Mog, Celes, Sabin. Starts with: I have come to experience anew the love of my brother!... Ends with: I have my friends here!"
+    "summary": "Characters: Sabin, Mog, Strago, Celes. Starts with: I have come to experience anew the love of my brother!... Ends with: I have my friends here!"
   },
   {
     "characters": [
+      "Mog",
       "Relm",
       "Setzer",
-      "Mog",
       "Gau"
     ],
     "content": [
@@ -8448,13 +8448,13 @@
         "Relm": "And I have a brave Grandpa who'll stand by me through it all."
       }
     ],
-    "summary": "Characters: Relm, Setzer, Mog, Gau. Starts with: I have my friends here!... Ends with: And I have a brave Grandpa who'll stand by me through it all."
+    "summary": "Characters: Mog, Relm, Setzer, Gau. Starts with: I have my friends here!... Ends with: And I have a brave Grandpa who'll stand by me through it all."
   },
   {
     "characters": [
       "Relm",
-      "Kefka",
       "Terra",
+      "Kefka",
       "Locke"
     ],
     "content": [
@@ -8498,14 +8498,14 @@
         "Locke": "We will not allow you to harm another living thing."
       }
     ],
-    "summary": "Characters: Relm, Kefka, Terra, Locke. Starts with: And I have a brave Grandpa who'll stand by me through it all.... Ends with: We will not allow you to harm another living thing."
+    "summary": "Characters: Relm, Terra, Kefka, Locke. Starts with: And I have a brave Grandpa who'll stand by me through it all.... Ends with: We will not allow you to harm another living thing."
   },
   {
     "characters": [
-      "Kefka",
       "Edgar",
-      "Locke",
-      "Celes"
+      "Kefka",
+      "Celes",
+      "Locke"
     ],
     "content": [
       {
@@ -8551,12 +8551,12 @@
         "Edgar": "The Espers... They no longer exist..."
       }
     ],
-    "summary": "Characters: Kefka, Edgar, Locke, Celes. Starts with: We will not allow you to harm another living thing.... Ends with: The Espers... They no longer exist..."
+    "summary": "Characters: Edgar, Kefka, Celes, Locke. Starts with: We will not allow you to harm another living thing.... Ends with: The Espers... They no longer exist..."
   },
   {
     "characters": [
-      "Cyan",
       "Edgar",
+      "Cyan",
       "Terra",
       "Celes"
     ],
@@ -8589,14 +8589,14 @@
         "Cyan": "Machines! I hate machines! You just have to show technology who's boss"
       }
     ],
-    "summary": "Characters: Cyan, Edgar, Terra, Celes. Starts with: The Espers... They no longer exist...... Ends with: Machines! I hate machines! You just have to show technology who's boss"
+    "summary": "Characters: Edgar, Cyan, Terra, Celes. Starts with: The Espers... They no longer exist...... Ends with: Machines! I hate machines! You just have to show technology who's boss"
   },
   {
     "characters": [
+      "Sabin",
       "Cyan",
       "Setzer",
-      "Mog",
-      "Sabin"
+      "Mog"
     ],
     "content": [
       {
@@ -8630,13 +8630,13 @@
         "Mog": "Heeeeelp! Save me! The hair! Watch the hair!!!"
       }
     ],
-    "summary": "Characters: Cyan, Setzer, Mog, Sabin. Starts with: Machines! I hate machines! You just have to show technology who's boss... Ends with: Heeeeelp! Save me! The hair! Watch the hair!!!"
+    "summary": "Characters: Sabin, Cyan, Setzer, Mog. Starts with: Machines! I hate machines! You just have to show technology who's boss... Ends with: Heeeeelp! Save me! The hair! Watch the hair!!!"
   },
   {
     "characters": [
+      "Mog",
       "Umaro",
       "Setzer",
-      "Mog",
       "Celes"
     ],
     "content": [
@@ -8668,14 +8668,14 @@
         "Setzer": "Gogo! Watch Celes and do exactly what she does!"
       }
     ],
-    "summary": "Characters: Umaro, Setzer, Mog, Celes. Starts with: Heeeeelp! Save me! The hair! Watch the hair!!!... Ends with: Gogo! Watch Celes and do exactly what she does!"
+    "summary": "Characters: Mog, Umaro, Setzer, Celes. Starts with: Heeeeelp! Save me! The hair! Watch the hair!!!... Ends with: Gogo! Watch Celes and do exactly what she does!"
   },
   {
     "characters": [
-      "Setzer",
-      "Celes",
       "Locke",
-      "Gau"
+      "Setzer",
+      "Gau",
+      "Celes"
     ],
     "content": [
       {
@@ -8703,7 +8703,7 @@
         "Locke": "I will not let go... I promise!! You almost ate it trying to pick up that silly trinket!"
       }
     ],
-    "summary": "Characters: Setzer, Celes, Locke, Gau. Starts with: Gogo! Watch Celes and do exactly what she does!... Ends with: I will not let go... I promise!! You almost ate it trying to pick up that silly trinket!"
+    "summary": "Characters: Locke, Setzer, Gau, Celes. Starts with: Gogo! Watch Celes and do exactly what she does!... Ends with: I will not let go... I promise!! You almost ate it trying to pick up that silly trinket!"
   },
   {
     "characters": [
@@ -8743,8 +8743,8 @@
   {
     "characters": [
       "Relm",
-      "Strago",
       "Terra",
+      "Strago",
       "Shadow"
     ],
     "content": [
@@ -8788,13 +8788,13 @@
         "Terra": "Come with me!"
       }
     ],
-    "summary": "Characters: Relm, Strago, Terra, Shadow. Starts with: Grandpa! Stop goofing around!... Ends with: Come with me!"
+    "summary": "Characters: Relm, Terra, Strago, Shadow. Starts with: Grandpa! Stop goofing around!... Ends with: Come with me!"
   },
   {
     "characters": [
-      "Setzer",
       "Edgar",
       "Terra",
+      "Setzer",
       "Celes"
     ],
     "content": [
@@ -8832,7 +8832,7 @@
         "Setzer": "Didn't I say it before?! This is the world's fastest ship!"
       }
     ],
-    "summary": "Characters: Setzer, Edgar, Terra, Celes. Starts with: Come with me!... Ends with: Didn't I say it before?! This is the world's fastest ship!"
+    "summary": "Characters: Edgar, Terra, Setzer, Celes. Starts with: Come with me!... Ends with: Didn't I say it before?! This is the world's fastest ship!"
   },
   {
     "characters": [

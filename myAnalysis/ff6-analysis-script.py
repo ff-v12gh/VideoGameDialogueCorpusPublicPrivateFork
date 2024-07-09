@@ -135,6 +135,54 @@ def plot_scene_structure(scenes, title, output_file):
     plt.savefig(output_file)
     plt.close()
 
+
+def analyze_combined(data, aliases, char_threshold=3, location_threshold=50):
+    scenes = []
+    current_scene = {"location": "", "characters": set(), "content": [], "summary": ""}
+    character_last_seen = defaultdict(int)
+    dialogue_count = 0
+    last_location_change = 0
+
+    for item in data['text']:
+        current_scene['content'].append(item)
+        
+        if 'LOCATION' in item:
+            current_scene['location'] = item['LOCATION']
+            last_location_change = dialogue_count
+        
+        if any(char in item for char in item.keys() if char not in ['ACTION', 'COMMENT', 'LOCATION']):
+            character = list(item.keys())[0]
+            normalized_character = normalize_character_name(character, aliases)
+            current_scene['characters'].add(normalized_character)
+            character_last_seen[normalized_character] = dialogue_count
+
+            # Check for inactive characters
+            inactive_characters = {char for char, last_seen in character_last_seen.items() 
+                                   if dialogue_count - last_seen > location_threshold}
+            current_scene['characters'] -= inactive_characters
+
+            # Start a new scene if:
+            # 1. Character constellation changes significantly OR
+            # 2. Character constellation changes moderately AND there's a recent location change
+            if (len(current_scene['characters']) > char_threshold and len(inactive_characters) > char_threshold - 1) or \
+               (len(current_scene['characters']) > char_threshold - 1 and len(inactive_characters) > 0 and 
+                dialogue_count - last_location_change < location_threshold):
+                current_scene['summary'] = summarize_scene(current_scene)
+                scenes.append(current_scene)
+                current_scene = {"location": item['LOCATION'] if 'LOCATION' in item else current_scene['location'], 
+                                 "characters": set([normalized_character]), 
+                                 "content": [item], 
+                                 "summary": ""}
+
+            dialogue_count += 1
+
+    if current_scene['content']:
+        current_scene['summary'] = summarize_scene(current_scene)
+        scenes.append(current_scene)
+
+    return scenes
+
+
 # Main execution
 try:
     data = load_data('FinalFantasy/FFVI/data-ff6.json')
@@ -164,9 +212,14 @@ character_scenes_long = analyze_character_constellations(data, aliases, inactivi
 save_results(character_scenes_long, 'results/FFVI_character_scenes_long.json')
 plot_scene_structure(character_scenes_long, 'Final Fantasy VI Character Scenes (Long)', 'results/FFVI_character_scenes_long.png')
 
+combined_scenes = analyze_combined(data, aliases, char_threshold=3, location_threshold=50)
+save_results(combined_scenes, 'results/FFVI_combined_scenes.json')
+plot_scene_structure(combined_scenes, 'Final Fantasy VI Combined Scene Analysis', 'results/FFVI_combined_scenes.png')
+
 print(f"Number of story-based scenes: {len(story_scenes)}")
 print(f"Number of character-based scenes (short): {len(character_scenes_short)}")
 print(f"Number of character-based scenes (medium): {len(character_scenes_medium)}")
 print(f"Number of character-based scenes (long): {len(character_scenes_long)}")
+print(f"Number of combined analysis scenes: {len(combined_scenes)}")
 
 print("Analysis completed successfully. Results saved in the 'results' directory.")

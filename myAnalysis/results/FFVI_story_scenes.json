@@ -46,10 +46,10 @@
   {
     "location": "The soldiers enter the tower of Narshe",
     "characters": [
-      "Terra",
-      "Wedge",
       "Vicks",
+      "Terra",
       "Unknown",
+      "Wedge",
       "Guard"
     ],
     "content": [
@@ -165,7 +165,7 @@
         "ACTION": "Some strange connection occurs followed by an explosion"
       }
     ],
-    "summary": "Characters: Terra, Wedge, Vicks, Unknown, Guard. Location: The soldiers enter the tower of Narshe. Starts with: Let's put her on point. No sense taking any risks. Forward!... Ends with: ... ... ..."
+    "summary": "Characters: Vicks, Terra, Unknown, Wedge, Guard. Location: The soldiers enter the tower of Narshe. Starts with: Let's put her on point. No sense taking any risks. Forward!... Ends with: ... ... ..."
   },
   {
     "location": "---",
@@ -181,10 +181,10 @@
     "location": "Arvis's House",
     "characters": [
       "Arvis",
+      "Guard 1",
       "Terra",
       "Soldier",
-      "Guard",
-      "Guard 1"
+      "Guard"
     ],
     "content": [
       {
@@ -257,7 +257,7 @@
         "Guard 1": "Got her!"
       }
     ],
-    "summary": "Characters: Arvis, Terra, Soldier, Guard, Guard 1. Location: Arvis's House. Starts with: Where am I...?... Ends with: Got her!"
+    "summary": "Characters: Arvis, Guard 1, Terra, Soldier, Guard. Location: Arvis's House. Starts with: Where am I...?... Ends with: Got her!"
   },
   {
     "location": "---",
@@ -273,8 +273,8 @@
     "location": "Terra's flashback",
     "characters": [
       "Kefka",
-      "Gestahl",
-      "Loud Cheers"
+      "Loud Cheers",
+      "Gestahl"
     ],
     "content": [
       {
@@ -305,7 +305,7 @@
         "Loud Cheers": "Hurrah!!! Long live Emperor Gestahl!!!"
       }
     ],
-    "summary": "Characters: Kefka, Gestahl, Loud Cheers. Location: Terra's flashback. Starts with: My sweet little magic user...! Uweee, he, he! With this Slave Crown I'll practically OWN you!!... Ends with: Hurrah!!! Long live Emperor Gestahl!!!"
+    "summary": "Characters: Kefka, Loud Cheers, Gestahl. Location: Terra's flashback. Starts with: My sweet little magic user...! Uweee, he, he! With this Slave Crown I'll practically OWN you!!... Ends with: Hurrah!!! Long live Emperor Gestahl!!!"
   },
   {
     "location": "---",
@@ -377,8 +377,8 @@
     "location": "Locke drops down and discovers Terra",
     "characters": [
       "Guard",
-      "Locke",
-      "Terra"
+      "Terra",
+      "Locke"
     ],
     "content": [
       {
@@ -439,7 +439,7 @@
         "ACTION": "And now no more sprinting. Sad day. You could go to the Classroom,\n    but that text will not be recorded. Only main story line text will\n    be recorded  (sidequest too, but no random townsfolk"
       }
     ],
-    "summary": "Characters: Guard, Locke, Terra. Location: Locke drops down and discovers Terra. Starts with: Now we gotcha!... Ends with: I won't leave you until your memory returns!! By the way, this secret entrance might be useful some day. Don't forget about it! (hint hint)"
+    "summary": "Characters: Guard, Terra, Locke. Location: Locke drops down and discovers Terra. Starts with: Now we gotcha!... Ends with: I won't leave you until your memory returns!! By the way, this secret entrance might be useful some day. Don't forget about it! (hint hint)"
   },
   {
     "location": "---",
@@ -454,17 +454,17 @@
   {
     "location": "Figaro Castle",
     "characters": [
-      "Soldiers",
-      "Sentry",
-      "Kefka",
       "Edgar",
+      "Youth",
       "Terra",
+      "Soldier",
+      "Matron",
       "Locke",
       "Trooper",
-      "Youth",
-      "Chancellor",
-      "Soldier",
-      "Matron"
+      "Kefka",
+      "Soldiers",
+      "Sentry",
+      "Chancellor"
     ],
     "content": [
       {
@@ -846,7 +846,7 @@
         "Soldier": "Yes, Sir! Take care!"
       }
     ],
-    "summary": "Characters: Soldiers, Sentry, Kefka, Edgar, Terra, Locke, Trooper, Youth, Chancellor, Soldier, Matron. Location: Figaro Castle. Starts with: WAIT! Hey! Oh it's you. Proceed.... Ends with: Yes, Sir! Take care!"
+    "summary": "Characters: Edgar, Youth, Terra, Soldier, Matron, Locke, Trooper, Kefka, Soldiers, Sentry, Chancellor. Location: Figaro Castle. Starts with: WAIT! Hey! Oh it's you. Proceed.... Ends with: Yes, Sir! Take care!"
   },
   {
     "location": "---",
@@ -940,10 +940,10 @@
   {
     "location": "MT. Koltz",
     "characters": [
-      "Vargas",
       "Edgar",
       "Terra",
       "Locke",
+      "Vargas",
       "Sabin"
     ],
     "content": [
@@ -1059,7 +1059,7 @@
         "Locke": "Let's get going!"
       }
     ],
-    "summary": "Characters: Vargas, Edgar, Terra, Locke, Sabin. Location: MT. Koltz. Starts with: Sabin sent you, right?... Ends with: Let's get going!"
+    "summary": "Characters: Edgar, Terra, Locke, Vargas, Sabin. Location: MT. Koltz. Starts with: Sabin sent you, right?... Ends with: Let's get going!"
   },
   {
     "location": "---",
@@ -1076,10 +1076,10 @@
     "characters": [
       "Edgar",
       "Terra",
-      "Locke",
-      "Banon",
       "Soldier",
+      "Locke",
       "Sabin",
+      "Banon",
       "Guard"
     ],
     "content": [
@@ -1342,7 +1342,7 @@
         "ACTION": "Well, why didn't they do that sooner! Genji Gloves is both\n    superior and the dialogue is shorter this way"
       }
     ],
-    "summary": "Characters: Edgar, Terra, Locke, Banon, Soldier, Sabin, Guard. Location: The Returner's Hideout. Starts with: King Edgar! Follow me please... Ends with: I understand your unease. But even as we speak, innocent lives are being lost... Please. We need your abilities. This relic will keep you safe."
+    "summary": "Characters: Edgar, Terra, Soldier, Locke, Sabin, Banon, Guard. Location: The Returner's Hideout. Starts with: King Edgar! Follow me please... Ends with: I understand your unease. But even as we speak, innocent lives are being lost... Please. We need your abilities. This relic will keep you safe."
   },
   {
     "location": "---",
@@ -1359,9 +1359,9 @@
     "characters": [
       "Edgar",
       "Terra",
-      "Ultros",
+      "Sabin",
       "Banon",
-      "Sabin"
+      "Ultros"
     ],
     "content": [
       {
@@ -1437,7 +1437,7 @@
         "ACTION": "And they float separate ways..."
       }
     ],
-    "summary": "Characters: Edgar, Terra, Ultros, Banon, Sabin. Location: The Lete River and Ultros. Starts with: Uwee ee ee, Game Over! Don't tease the Octopus kids!... Ends with: Sabin!! Take care of yourself!"
+    "summary": "Characters: Edgar, Terra, Sabin, Banon, Ultros. Location: The Lete River and Ultros. Starts with: Uwee ee ee, Game Over! Don't tease the Octopus kids!... Ends with: Sabin!! Take care of yourself!"
   },
   {
     "location": "---",
@@ -1472,8 +1472,8 @@
   {
     "location": "Narshe",
     "characters": [
-      "Guard",
       "Edgar",
+      "Guard",
       "Terra",
       "Banon"
     ],
@@ -1530,7 +1530,7 @@
         "ACTION": "And we ignore the security thing and the Moogles. Not important"
       }
     ],
-    "summary": "Characters: Guard, Edgar, Terra, Banon. Location: Narshe. Starts with: Hey, lady... didn't you just bust in here wearing Magitek Armor?... Ends with: Knowing him there's probably some secret switch in this rock wall..."
+    "summary": "Characters: Edgar, Guard, Terra, Banon. Location: Narshe. Starts with: Hey, lady... didn't you just bust in here wearing Magitek Armor?... Ends with: Knowing him there's probably some secret switch in this rock wall..."
   },
   {
     "location": "---",
@@ -1545,8 +1545,8 @@
   {
     "location": "Arvis's house",
     "characters": [
-      "Arvis",
       "Edgar",
+      "Arvis",
       "Banon"
     ],
     "content": [
@@ -1578,7 +1578,7 @@
         "Edgar": "That Esper is either going to save us... or dig us and early grave..."
       }
     ],
-    "summary": "Characters: Arvis, Edgar, Banon. Location: Arvis's house. Starts with: Banon! King Edgar! and Terra!... Ends with: That Esper is either going to save us... or dig us and early grave..."
+    "summary": "Characters: Edgar, Arvis, Banon. Location: Arvis's house. Starts with: Banon! King Edgar! and Terra!... Ends with: That Esper is either going to save us... or dig us and early grave..."
   },
   {
     "location": "---",
@@ -1634,18 +1634,18 @@
   {
     "location": "The Imperial Base, and Doma Castle",
     "characters": [
+      "Cyan",
+      "Soldier",
+      "Trooper",
+      "Soldier A",
       "King Doma",
+      "Leo",
+      "Soldier B",
       "Kefka",
       "Doma Sentry",
-      "Trooper",
-      "Commander",
-      "Leo",
-      "Soldier A",
+      "Sabin",
       "Other Sentry",
-      "Soldier",
-      "Cyan",
-      "Soldier B",
-      "Sabin"
+      "Commander"
     ],
     "content": [
       {
@@ -1997,7 +1997,7 @@
         "Sabin": "All right! It's decided. Let's get going!"
       }
     ],
-    "summary": "Characters: King Doma, Kefka, Doma Sentry, Trooper, Commander, Leo, Soldier A, Other Sentry, Soldier, Cyan, Soldier B, Sabin. Location: The Imperial Base, and Doma Castle. Starts with: Hey have you heard?... Ends with: All right! It's decided. Let's get going!"
+    "summary": "Characters: Cyan, Soldier, Trooper, Soldier A, King Doma, Leo, Soldier B, Kefka, Doma Sentry, Sabin, Other Sentry, Commander. Location: The Imperial Base, and Doma Castle. Starts with: Hey have you heard?... Ends with: All right! It's decided. Let's get going!"
   },
   {
     "location": "---",
@@ -2012,9 +2012,9 @@
   {
     "location": "The Phantom Train",
     "characters": [
+      "Sabin",
       "Cyan",
-      "Elayne",
-      "Sabin"
+      "Elayne"
     ],
     "content": [
       {
@@ -2108,7 +2108,7 @@
         "ACTION": "Stand around. Shadow will tell you to leave him alone"
       }
     ],
-    "summary": "Characters: Cyan, Elayne, Sabin. Location: The Phantom Train. Starts with: A train's there!? But I thought Doma's railway had been destroyed..?... Ends with: My love... You made so happy. Don't forget me OWAIN: Dad! I'll make sure Mom's alright"
+    "summary": "Characters: Sabin, Cyan, Elayne. Location: The Phantom Train. Starts with: A train's there!? But I thought Doma's railway had been destroyed..?... Ends with: My love... You made so happy. Don't forget me OWAIN: Dad! I'll make sure Mom's alright"
   },
   {
     "location": "---",
@@ -2123,8 +2123,8 @@
   {
     "location": "Baren Falls",
     "characters": [
-      "Cyan",
       "Sabin",
+      "Cyan",
       "Shadow"
     ],
     "content": [
@@ -2150,7 +2150,7 @@
         "Sabin": "Shadow! Thanks for your help! Let's join ranks again some time!"
       }
     ],
-    "summary": "Characters: Cyan, Sabin, Shadow. Location: Baren Falls. Starts with: This must be Baren Falls.... Ends with: Shadow! Thanks for your help! Let's join ranks again some time!"
+    "summary": "Characters: Sabin, Cyan, Shadow. Location: Baren Falls. Starts with: This must be Baren Falls.... Ends with: Shadow! Thanks for your help! Let's join ranks again some time!"
   },
   {
     "location": "---",
@@ -2165,8 +2165,8 @@
   {
     "location": "The Veldt",
     "characters": [
-      "Cyan",
       "Sabin",
+      "Cyan",
       "Gau"
     ],
     "content": [
@@ -2294,7 +2294,7 @@
         "Sabin": "Hey! I told you once, I'm not Mr. Thou!!!"
       }
     ],
-    "summary": "Characters: Cyan, Sabin, Gau. Location: The Veldt. Starts with: Uwaoo~!!... Ends with: Hey! I told you once, I'm not Mr. Thou!!!"
+    "summary": "Characters: Sabin, Cyan, Gau. Location: The Veldt. Starts with: Uwaoo~!!... Ends with: Hey! I told you once, I'm not Mr. Thou!!!"
   },
   {
     "location": "---",
@@ -2309,8 +2309,8 @@
   {
     "location": "Crescent Mountain",
     "characters": [
-      "Cyan",
       "Sabin",
+      "Cyan",
       "Gau"
     ],
     "content": [
@@ -2372,7 +2372,7 @@
         "Gau": "Me hope so too..."
       }
     ],
-    "summary": "Characters: Cyan, Sabin, Gau. Location: Crescent Mountain. Starts with: Cyan! The shiny thing Gau spoke of is in here.... Ends with: Me hope so too..."
+    "summary": "Characters: Sabin, Cyan, Gau. Location: Crescent Mountain. Starts with: Cyan! The shiny thing Gau spoke of is in here.... Ends with: Me hope so too..."
   },
   {
     "location": "---",
@@ -2389,8 +2389,8 @@
     "characters": [
       "Guard",
       "Merchant",
-      "Locke",
-      "Celes"
+      "Celes",
+      "Locke"
     ],
     "content": [
       {
@@ -2511,7 +2511,7 @@
         "Celes": "Just you watch!!"
       }
     ],
-    "summary": "Characters: Guard, Merchant, Locke, Celes. Location: Lock's Scenario. Starts with: Nuts! Gotta get to Narshe on the fly...... Ends with: Just you watch!!"
+    "summary": "Characters: Guard, Merchant, Celes, Locke. Location: Lock's Scenario. Starts with: Nuts! Gotta get to Narshe on the fly...... Ends with: Just you watch!!"
   },
   {
     "location": "---",
@@ -2526,18 +2526,18 @@
   {
     "location": "The War Room",
     "characters": [
-      "Arvis",
-      "Kefka",
       "Edgar",
+      "Arvis",
+      "Cyan",
+      "Terra",
+      "Soldier",
+      "Gau",
       "Locke",
       "Elder",
-      "Terra",
-      "Celes",
-      "Banon",
-      "Soldier",
-      "Cyan",
       "Sabin",
-      "Gau"
+      "Kefka",
+      "Banon",
+      "Celes"
     ],
     "content": [
       {
@@ -2730,7 +2730,7 @@
         "ACTION": "Go!! Get those vile insects!"
       }
     ],
-    "summary": "Characters: Arvis, Kefka, Edgar, Locke, Elder, Terra, Celes, Banon, Soldier, Cyan, Sabin, Gau. Location: The War Room. Starts with: I understand all of it... Except... how can we be encouraging bloodshed?... Ends with: Oho!! It's General Celes, the traitor! How delightful! This'll be fun! *laugh*"
+    "summary": "Characters: Edgar, Arvis, Cyan, Terra, Soldier, Gau, Locke, Elder, Sabin, Kefka, Banon, Celes. Location: The War Room. Starts with: I understand all of it... Except... how can we be encouraging bloodshed?... Ends with: Oho!! It's General Celes, the traitor! How delightful! This'll be fun! *laugh*"
   },
   {
     "location": "---",
@@ -2746,11 +2746,11 @@
     "location": "Esper Shenanigans",
     "characters": [
       "Edgar",
+      "Cyan",
       "Terra",
       "Locke",
-      "Celes",
-      "Cyan",
-      "Sabin"
+      "Sabin",
+      "Celes"
     ],
     "content": [
       {
@@ -2838,7 +2838,7 @@
         "ACTION": "and guard Narshe. Figaro Castle can shuttle us to the western\n       province. Then we'll make for Kohlingen or Jidoor."
       }
     ],
-    "summary": "Characters: Edgar, Terra, Locke, Celes, Cyan, Sabin. Location: Esper Shenanigans. Starts with: That was a close call!... Ends with: Let's split up. Those who aren't searching for Terra will stay"
+    "summary": "Characters: Edgar, Cyan, Terra, Locke, Sabin, Celes. Location: Esper Shenanigans. Starts with: That was a close call!... Ends with: Let's split up. Those who aren't searching for Terra will stay"
   },
   {
     "location": "---",
@@ -2853,10 +2853,10 @@
   {
     "location": "Locke's Nightmare (Kohlingen",
     "characters": [
-      "Thief",
-      "Locke",
       "Rachel",
-      "Rachel's Dad"
+      "Thief",
+      "Rachel's Dad",
+      "Locke"
     ],
     "content": [
       {
@@ -2911,7 +2911,7 @@
         "Locke": "A year passed... When I returned here, I learned that Rachel had perished in an Imperial attack. Her memory returned just before she passed away. The last thing she uttered was... my name... I should never have left her side. I... I failed her..."
       }
     ],
-    "summary": "Characters: Thief, Locke, Rachel, Rachel's Dad. Location: Locke's Nightmare (Kohlingen. Starts with: ...wasn't able to... save her when she needed me...... Ends with: A year passed... When I returned here, I learned that Rachel had perished in an Imperial attack. Her memory returned just before she passed away. The last thing she uttered was... my name... I should never have left her side. I... I failed her..."
+    "summary": "Characters: Rachel, Thief, Rachel's Dad, Locke. Location: Locke's Nightmare (Kohlingen. Starts with: ...wasn't able to... save her when she needed me...... Ends with: A year passed... When I returned here, I learned that Rachel had perished in an Imperial attack. Her memory returned just before she passed away. The last thing she uttered was... my name... I should never have left her side. I... I failed her..."
   },
   {
     "location": "---",
@@ -2927,12 +2927,12 @@
     "location": "Zozo",
     "characters": [
       "Edgar",
+      "Cyan",
       "Terra",
       "Locke",
-      "Celes",
+      "Sabin",
       "Ramuh",
-      "Cyan",
-      "Sabin"
+      "Celes"
     ],
     "content": [
       {
@@ -3086,7 +3086,7 @@
         "Locke": "Well... There're bound to be treasures there. And besides, I've always wanted an inside look at the Empire!"
       }
     ],
-    "summary": "Characters: Edgar, Terra, Locke, Celes, Ramuh, Cyan, Sabin. Location: Zozo. Starts with: Oooooh...gururururu...... Ends with: Well... There're bound to be treasures there. And besides, I've always wanted an inside look at the Empire!"
+    "summary": "Characters: Edgar, Cyan, Terra, Locke, Sabin, Ramuh, Celes. Location: Zozo. Starts with: Oooooh...gururururu...... Ends with: Well... There're bound to be treasures there. And besides, I've always wanted an inside look at the Empire!"
   },
   {
     "location": "---",
@@ -3101,10 +3101,10 @@
   {
     "location": "Jidoor",
     "characters": [
+      "Locke",
       "Impresario",
       "Master",
-      "Celes",
-      "Locke"
+      "Celes"
     ],
     "content": [
       {
@@ -3147,7 +3147,7 @@
         "Locke": "Let's set up a meeting... with Setzer..."
       }
     ],
-    "summary": "Characters: Impresario, Master, Celes, Locke. Location: Jidoor. Starts with: Maria!?... Ends with: Let's set up a meeting... with Setzer..."
+    "summary": "Characters: Locke, Impresario, Master, Celes. Location: Jidoor. Starts with: Maria!?... Ends with: Let's set up a meeting... with Setzer..."
   },
   {
     "location": "---",
@@ -3162,15 +3162,15 @@
   {
     "location": "The fantastic opera",
     "characters": [
-      "Impresario",
       "Maria",
-      "Locke",
-      "Celes",
-      "Ralse",
-      "Chancellor",
-      "Ultros",
       "Setzer",
-      "Draco"
+      "Locke",
+      "Ralse",
+      "Impresario",
+      "Draco",
+      "Ultros",
+      "Chancellor",
+      "Celes"
     ],
     "content": [
       {
@@ -3417,7 +3417,7 @@
         "Impresario": "What a reversal! Thinking she's Locke's new queen, Maria is instead nabbed by Setzer! What fate lies in store for her? Stay tuned for part 2!"
       }
     ],
-    "summary": "Characters: Impresario, Maria, Locke, Celes, Ralse, Chancellor, Ultros, Setzer, Draco. Location: The fantastic opera. Starts with: Ah! You again!... Ends with: What a reversal! Thinking she's Locke's new queen, Maria is instead nabbed by Setzer! What fate lies in store for her? Stay tuned for part 2!"
+    "summary": "Characters: Maria, Setzer, Locke, Ralse, Impresario, Draco, Ultros, Chancellor, Celes. Location: The fantastic opera. Starts with: Ah! You again!... Ends with: What a reversal! Thinking she's Locke's new queen, Maria is instead nabbed by Setzer! What fate lies in store for her? Stay tuned for part 2!"
   },
   {
     "location": "---",
@@ -3432,8 +3432,8 @@
   {
     "location": "The Airship",
     "characters": [
-      "Setzer",
       "Celes",
+      "Setzer",
       "Locke"
     ],
     "content": [
@@ -3573,7 +3573,7 @@
         "Setzer": "Right. I'll wait on board in case of an emergency."
       }
     ],
-    "summary": "Characters: Setzer, Celes, Locke. Location: The Airship. Starts with: I'll deal with you in a minute!... Ends with: Right. I'll wait on board in case of an emergency."
+    "summary": "Characters: Celes, Setzer, Locke. Location: The Airship. Starts with: I'll deal with you in a minute!... Ends with: Right. I'll wait on board in case of an emergency."
   },
   {
     "location": "---",
@@ -3588,16 +3588,16 @@
   {
     "location": "Vector, and the Magitek Research Facility",
     "characters": [
-      "Kefka",
-      "Locke",
-      "Celes",
       "Ifrit",
-      "Soldier",
-      "Maduin",
-      "Setzer",
       "Man 2",
+      "Soldier",
+      "Setzer",
+      "Locke",
+      "Kefka",
+      "Maduin",
+      "Cid",
       "Shiva",
-      "Cid"
+      "Celes"
     ],
     "content": [
       {
@@ -3751,7 +3751,7 @@
         "Setzer": "Right. Speaking of which... maybe we should be leaving."
       }
     ],
-    "summary": "Characters: Kefka, Locke, Celes, Ifrit, Soldier, Maduin, Setzer, Man 2, Shiva, Cid. Location: Vector, and the Magitek Research Facility. Starts with: Shhh I'm a Returner sympathizer! I've heard of you While I distract the soldiers, climb onto the steel tower from this box, and enter the facility!... Ends with: Right. Speaking of which... maybe we should be leaving."
+    "summary": "Characters: Ifrit, Man 2, Soldier, Setzer, Locke, Kefka, Maduin, Cid, Shiva, Celes. Location: Vector, and the Magitek Research Facility. Starts with: Shhh I'm a Returner sympathizer! I've heard of you While I distract the soldiers, climb onto the steel tower from this box, and enter the facility!... Ends with: Right. Speaking of which... maybe we should be leaving."
   },
   {
     "location": "---",
@@ -3766,18 +3766,18 @@
   {
     "location": "The return to Zozo",
     "characters": [
-      "Terra",
-      "Locke",
-      "Esper Elder",
-      "Fairy",
       "Youth",
+      "Terra",
+      "Setzer",
+      "Soldier",
+      "Locke",
+      "Gestahl",
+      "Sabin",
       "Madonna",
       "Maduin",
-      "Gestahl",
-      "Setzer",
       "Wolf",
-      "Soldier",
-      "Sabin"
+      "Fairy",
+      "Esper Elder"
     ],
     "content": [
       {
@@ -4027,7 +4027,7 @@
         "COMMENT": "Yeah we're skipping this, no \"how to airship\""
       }
     ],
-    "summary": "Characters: Terra, Locke, Esper Elder, Fairy, Youth, Madonna, Maduin, Gestahl, Setzer, Wolf, Soldier, Sabin. Location: The return to Zozo. Starts with: I'm worried about Terra. Let's return to Zozo.... Ends with: Come on!"
+    "summary": "Characters: Youth, Terra, Setzer, Soldier, Locke, Gestahl, Sabin, Madonna, Maduin, Wolf, Fairy, Esper Elder. Location: The return to Zozo. Starts with: I'm worried about Terra. Let's return to Zozo.... Ends with: Come on!"
   },
   {
     "location": "---",
@@ -4042,9 +4042,9 @@
   {
     "location": "Narshe",
     "characters": [
+      "Terra",
       "Guard",
       "Arvis",
-      "Terra",
       "Banon"
     ],
     "content": [
@@ -4076,7 +4076,7 @@
         "Terra": "Half human, half Esper... my existence is proof that such a bond CAN exist... I'll do it. I'm the only one who can!"
       }
     ],
-    "summary": "Characters: Guard, Arvis, Terra, Banon. Location: Narshe. Starts with: We've been waiting for you. This way, please...... Ends with: Half human, half Esper... my existence is proof that such a bond CAN exist... I'll do it. I'm the only one who can!"
+    "summary": "Characters: Terra, Guard, Arvis, Banon. Location: Narshe. Starts with: We've been waiting for you. This way, please...... Ends with: Half human, half Esper... my existence is proof that such a bond CAN exist... I'll do it. I'm the only one who can!"
   },
   {
     "location": "---",
@@ -4091,11 +4091,11 @@
   {
     "location": "The Sealed Gate",
     "characters": [
-      "Kefka",
       "Edgar",
       "Terra",
+      "Setzer",
       "Locke",
-      "Setzer"
+      "Kefka"
     ],
     "content": [
       {
@@ -4192,7 +4192,7 @@
         "Edgar": "Um......Setzer!!!! I've lost control!!"
       }
     ],
-    "summary": "Characters: Kefka, Edgar, Terra, Locke, Setzer. Location: The Sealed Gate. Starts with: ... ...... Ends with: Um......Setzer!!!! I've lost control!!"
+    "summary": "Characters: Edgar, Terra, Setzer, Locke, Kefka. Location: The Sealed Gate. Starts with: ... ...... Ends with: Um......Setzer!!!! I've lost control!!"
   },
   {
     "location": "---",
@@ -4207,16 +4207,16 @@
   {
     "location": "Vector",
     "characters": [
-      "Sentry",
       "Edgar",
-      "Locke",
+      "Cyan",
+      "Sentry",
       "Terra",
       "Trooper",
-      "Leo",
+      "Locke",
       "Gestahl",
-      "Cyan",
+      "Cid",
       "Guard",
-      "Cid"
+      "Leo"
     ],
     "content": [
       {
@@ -4343,7 +4343,7 @@
         "COMMENT": "And if you do all of that, and talk to the 24 troops, you get\neverything! Good luck with that"
       }
     ],
-    "summary": "Characters: Sentry, Edgar, Locke, Terra, Trooper, Leo, Gestahl, Cyan, Guard, Cid. Location: Vector. Starts with: The Emperor's expecting you. This way...... Ends with: Right. And you be careful!"
+    "summary": "Characters: Edgar, Cyan, Sentry, Terra, Trooper, Locke, Gestahl, Cid, Guard, Leo. Location: Vector. Starts with: The Emperor's expecting you. This way...... Ends with: Right. And you be careful!"
   },
   {
     "location": "---",
@@ -4358,9 +4358,9 @@
   {
     "location": "The Airship",
     "characters": [
-      "Cid",
+      "Terra",
       "Setzer",
-      "Terra"
+      "Cid"
     ],
     "content": [
       {
@@ -4409,7 +4409,7 @@
         "Setzer": "At that time there was a young girl who piloted the Falcon, the fastest vessel ever made. Sometimes we were the worst of rivals... but other times we were the best of friends. We always egged each other on to go faster and higher. When she disappeared along with her ship... I felt like I lost my spirit... Poor Daryl..."
       }
     ],
-    "summary": "Characters: Cid, Setzer, Terra. Location: The Airship. Starts with: Wow, what a ship!... Ends with: At that time there was a young girl who piloted the Falcon, the fastest vessel ever made. Sometimes we were the worst of rivals... but other times we were the best of friends. We always egged each other on to go faster and higher. When she disappeared along with her ship... I felt like I lost my spirit... Poor Daryl..."
+    "summary": "Characters: Terra, Setzer, Cid. Location: The Airship. Starts with: Wow, what a ship!... Ends with: At that time there was a young girl who piloted the Falcon, the fastest vessel ever made. Sometimes we were the worst of rivals... but other times we were the best of friends. We always egged each other on to go faster and higher. When she disappeared along with her ship... I felt like I lost my spirit... Poor Daryl..."
   },
   {
     "location": "---",
@@ -4424,13 +4424,13 @@
   {
     "location": "Albrook",
     "characters": [
-      "Locke",
-      "Terra",
       "Innkeeper",
-      "Leo",
-      "Celes",
+      "Terra",
       "Soldier",
-      "Shadow"
+      "Locke",
+      "Shadow",
+      "Leo",
+      "Celes"
     ],
     "content": [
       {
@@ -4581,7 +4581,7 @@
         "Locke": "Come on..."
       }
     ],
-    "summary": "Characters: Locke, Terra, Innkeeper, Leo, Celes, Soldier, Shadow. Location: Albrook. Starts with: There you are. Another of the Empire's generals, and a person I hired in town will be traveling with us. Let me introduce... General Celes... and Shadow.... Ends with: Come on..."
+    "summary": "Characters: Innkeeper, Terra, Soldier, Locke, Shadow, Leo, Celes. Location: Albrook. Starts with: There you are. Another of the Empire's generals, and a person I hired in town will be traveling with us. Let me introduce... General Celes... and Shadow.... Ends with: Come on..."
   },
   {
     "location": "---",
@@ -4596,12 +4596,12 @@
   {
     "location": "Thamasa",
     "characters": [
-      "Locke",
-      "Terra",
       "Relm",
-      "Shadow",
+      "Terra",
+      "Strago",
+      "Locke",
       "Mayor",
-      "Strago"
+      "Shadow"
     ],
     "content": [
       {
@@ -4773,7 +4773,7 @@
         "ACTION": "Then the house caves in. Luckily Shadow comes to their aid"
       }
     ],
-    "summary": "Characters: Locke, Terra, Relm, Shadow, Mayor, Strago. Location: Thamasa. Starts with: Espers? Espers... Hmm... Not really familiar with that word.... Ends with: Relm!!!!!"
+    "summary": "Characters: Relm, Terra, Strago, Locke, Mayor, Shadow. Location: Thamasa. Starts with: Espers? Espers... Hmm... Not really familiar with that word.... Ends with: Relm!!!!!"
   },
   {
     "location": "---",
@@ -4788,11 +4788,11 @@
   {
     "location": "Post fire house",
     "characters": [
-      "Locke",
-      "Terra",
       "Relm",
-      "Shadow",
-      "Strago"
+      "Terra",
+      "Strago",
+      "Locke",
+      "Shadow"
     ],
     "content": [
       {
@@ -4880,7 +4880,7 @@
         "Shadow": "Interceptor, come!"
       }
     ],
-    "summary": "Characters: Locke, Terra, Relm, Shadow, Strago. Location: Post fire house. Starts with: Are you okay?... Ends with: Interceptor, come!"
+    "summary": "Characters: Relm, Terra, Strago, Locke, Shadow. Location: Post fire house. Starts with: Are you okay?... Ends with: Interceptor, come!"
   },
   {
     "location": "---",
@@ -4895,8 +4895,8 @@
   {
     "location": "Crescent Cave",
     "characters": [
-      "Strago",
       "Terra",
+      "Strago",
       "Locke"
     ],
     "content": [
@@ -4970,7 +4970,7 @@
         "ACTION": "Ultros comes in of course. But it is unimportant so not included"
       }
     ],
-    "summary": "Characters: Strago, Terra, Locke. Location: Crescent Cave. Starts with: I can't believe it... The Statues...!... Ends with: I think it's worth a look."
+    "summary": "Characters: Terra, Strago, Locke. Location: Crescent Cave. Starts with: I can't believe it... The Statues...!... Ends with: I think it's worth a look."
   },
   {
     "location": "---",
@@ -4985,19 +4985,19 @@
   {
     "location": "The other place where Espers live",
     "characters": [
-      "Yura",
-      "Kefka",
       "Edgar",
-      "Terra",
-      "Locke",
-      "Leo",
-      "Celes",
       "Relm",
-      "Gestahl",
       "Cyan",
+      "Terra",
       "Setzer",
+      "Strago",
+      "Locke",
+      "Gestahl",
+      "Kefka",
       "Sabin",
-      "Strago"
+      "Yura",
+      "Leo",
+      "Celes"
     ],
     "content": [
       {
@@ -5370,7 +5370,7 @@
         "Terra": "What?!"
       }
     ],
-    "summary": "Characters: Yura, Kefka, Edgar, Terra, Locke, Leo, Celes, Relm, Gestahl, Cyan, Setzer, Sabin, Strago. Location: The other place where Espers live. Starts with: Are these... Espers?!... Ends with: What?!"
+    "summary": "Characters: Edgar, Relm, Cyan, Terra, Setzer, Strago, Locke, Gestahl, Kefka, Sabin, Yura, Leo, Celes. Location: The other place where Espers live. Starts with: Are these... Espers?!... Ends with: What?!"
   },
   {
     "location": "---",
@@ -5399,8 +5399,8 @@
     "location": "Figaro Castle",
     "characters": [
       "Edgar",
-      "Matron",
-      "Sabin"
+      "Sabin",
+      "Matron"
     ],
     "content": [
       {
@@ -5494,7 +5494,7 @@
         "Sabin": "...to Mom... and to Figaro."
       }
     ],
-    "summary": "Characters: Edgar, Matron, Sabin. Location: Figaro Castle. Starts with: Hmm... Castle hasn't changed much... And yet it's all different... Mom and Dad are gone... Everyone's gone... Since that day...... Ends with: ...to Mom... and to Figaro."
+    "summary": "Characters: Edgar, Sabin, Matron. Location: Figaro Castle. Starts with: Hmm... Castle hasn't changed much... And yet it's all different... Mom and Dad are gone... Everyone's gone... Since that day...... Ends with: ...to Mom... and to Figaro."
   },
   {
     "location": "---",
@@ -5509,11 +5509,11 @@
   {
     "location": "The Floating Continent | And Showdown",
     "characters": [
-      "Kefka",
-      "Celes",
-      "Gestahl",
       "Setzer",
-      "Shadow"
+      "Shadow",
+      "Gestahl",
+      "Kefka",
+      "Celes"
     ],
     "content": [
       {
@@ -5682,7 +5682,7 @@
         "ACTION": "Aw crap the Blackjack! Nooooo"
       }
     ],
-    "summary": "Characters: Kefka, Celes, Gestahl, Setzer, Shadow. Location: The Floating Continent | And Showdown. Starts with: Well, well... Fwa, ha, ha... Then you're just in time to perish. Behold! The Statues!... Ends with: Hang on!"
+    "summary": "Characters: Setzer, Shadow, Gestahl, Kefka, Celes. Location: The Floating Continent | And Showdown. Starts with: Well, well... Fwa, ha, ha... Then you're just in time to perish. Behold! The Statues!... Ends with: Hang on!"
   },
   {
     "location": "---",
@@ -5842,8 +5842,8 @@
   {
     "location": "Nikeah",
     "characters": [
-      "Henchman",
       "Edgar",
+      "Henchman",
       "Celes"
     ],
     "content": [
@@ -5905,7 +5905,7 @@
         "Edgar": "Case of mistaken identity, my dear. Give it up!"
       }
     ],
-    "summary": "Characters: Henchman, Edgar, Celes. Location: Nikeah. Starts with: What's your problem?... Ends with: Case of mistaken identity, my dear. Give it up!"
+    "summary": "Characters: Edgar, Henchman, Celes. Location: Nikeah. Starts with: What's your problem?... Ends with: Case of mistaken identity, my dear. Give it up!"
   },
   {
     "location": "---",
@@ -5920,9 +5920,9 @@
   {
     "location": "The Cave of South Figaro (and Castle",
     "characters": [
+      "Edgar",
       "Henchmen",
       "Henchman",
-      "Edgar",
       "Celes"
     ],
     "content": [
@@ -5999,7 +5999,7 @@
         "Celes": "Come on let's go"
       }
     ],
-    "summary": "Characters: Henchmen, Henchman, Edgar, Celes. Location: The Cave of South Figaro (and Castle. Starts with: Now, where were we...?... Ends with: Come on let's go"
+    "summary": "Characters: Edgar, Henchmen, Henchman, Celes. Location: The Cave of South Figaro (and Castle. Starts with: Now, where were we...?... Ends with: Come on let's go"
   },
   {
     "location": "---",
@@ -6067,8 +6067,8 @@
   {
     "location": "Daryl's Tomb",
     "characters": [
-      "Daryl",
       "Edgar",
+      "Daryl",
       "Setzer",
       "Celes"
     ],
@@ -6173,7 +6173,7 @@
         "Celes": "I don't know! Something inside just tells me it's important..."
       }
     ],
-    "summary": "Characters: Daryl, Edgar, Setzer, Celes. Location: Daryl's Tomb. Starts with: This person... She was your friend?... Ends with: I don't know! Something inside just tells me it's important..."
+    "summary": "Characters: Edgar, Daryl, Setzer, Celes. Location: Daryl's Tomb. Starts with: This person... She was your friend?... Ends with: I don't know! Something inside just tells me it's important..."
   },
   {
     "location": "---",
@@ -6216,8 +6216,8 @@
   {
     "location": "Tzen",
     "characters": [
-      "Celes",
-      "Sabin"
+      "Sabin",
+      "Celes"
     ],
     "content": [
       {
@@ -6254,7 +6254,7 @@
         "Sabin": "I know I know... We smash Kefka and deliver peace unto the world..."
       }
     ],
-    "summary": "Characters: Celes, Sabin. Location: Tzen. Starts with: Sabin!... Ends with: I know I know... We smash Kefka and deliver peace unto the world..."
+    "summary": "Characters: Sabin, Celes. Location: Tzen. Starts with: Sabin!... Ends with: I know I know... We smash Kefka and deliver peace unto the world..."
   },
   {
     "location": "---",
@@ -6269,8 +6269,8 @@
   {
     "location": "Duncan's House",
     "characters": [
-      "Duncan",
-      "Sabin"
+      "Sabin",
+      "Duncan"
     ],
     "content": [
       {
@@ -6289,7 +6289,7 @@
         "Duncan": "Whoa?! Sabin, this can't be, tears?? Wa, ha, ha... nothing happened to me! The earth yawned right open to take me but I scrambled to safety! Sabin!! It is now time to complete your training. Use these new skills to smash Kefka! I call this the \"Bum Rush\"!! Go! Give Kefka the boot!"
       }
     ],
-    "summary": "Characters: Duncan, Sabin. Location: Duncan's House. Starts with: Duncan!!... Ends with: Whoa?! Sabin, this can't be, tears?? Wa, ha, ha... nothing happened to me! The earth yawned right open to take me but I scrambled to safety! Sabin!! It is now time to complete your training. Use these new skills to smash Kefka! I call this the \"Bum Rush\"!! Go! Give Kefka the boot!"
+    "summary": "Characters: Sabin, Duncan. Location: Duncan's House. Starts with: Duncan!!... Ends with: Whoa?! Sabin, this can't be, tears?? Wa, ha, ha... nothing happened to me! The earth yawned right open to take me but I scrambled to safety! Sabin!! It is now time to complete your training. Use these new skills to smash Kefka! I call this the \"Bum Rush\"!! Go! Give Kefka the boot!"
   },
   {
     "location": "---",
@@ -6378,9 +6378,9 @@
     "location": "Return to Mobliz",
     "characters": [
       "Duane",
-      "Terra",
       "Katarin",
-      "Little Girl"
+      "Little Girl",
+      "Terra"
     ],
     "content": [
       {
@@ -6411,7 +6411,7 @@
         "ACTION": "I'll be back. I promise! Till then... you behave!"
       }
     ],
-    "summary": "Characters: Duane, Terra, Katarin, Little Girl. Location: Return to Mobliz. Starts with: Hey you guys! Katarin's having a baby.... Ends with: I... I can fight! Finally... I understand that feeling... even though I kept it buried for so long. I'm sure it's called....... Love! I now realize that we must fight for the future of our children."
+    "summary": "Characters: Duane, Katarin, Little Girl, Terra. Location: Return to Mobliz. Starts with: Hey you guys! Katarin's having a baby.... Ends with: I... I can fight! Finally... I understand that feeling... even though I kept it buried for so long. I'm sure it's called....... Love! I now realize that we must fight for the future of our children."
   },
   {
     "location": "---",
@@ -6508,10 +6508,10 @@
   {
     "location": "The village of Kohlingen",
     "characters": [
-      "Patriarch",
-      "Locke",
       "Rachel",
-      "Celes"
+      "Celes",
+      "Patriarch",
+      "Locke"
     ],
     "content": [
       {
@@ -6584,7 +6584,7 @@
         "COMMENT": "Not going through the treasure list"
       }
     ],
-    "summary": "Characters: Patriarch, Locke, Rachel, Celes. Location: The village of Kohlingen. Starts with: If only the Magicite didn't bear those deep cracks... I think you've been wasting your time young man!... Ends with: Thanks, I'm okay... I feel lighter than air... From here on... I'll be all right. Let's go! We have work to do!! (Cue Locke's theme)"
+    "summary": "Characters: Rachel, Celes, Patriarch, Locke. Location: The village of Kohlingen. Starts with: If only the Magicite didn't bear those deep cracks... I think you've been wasting your time young man!... Ends with: Thanks, I'm okay... I feel lighter than air... From here on... I'll be all right. Let's go! We have work to do!! (Cue Locke's theme)"
   },
   {
     "location": "---",
@@ -6639,8 +6639,8 @@
   {
     "location": "Umaro's Cave",
     "characters": [
-      "Umaro",
-      "Mog"
+      "Mog",
+      "Umaro"
     ],
     "content": [
       {
@@ -6662,7 +6662,7 @@
         "Umaro": "Ooo... me wait for you in big airship!"
       }
     ],
-    "summary": "Characters: Umaro, Mog. Location: Umaro's Cave. Starts with: I'm your boss, kupo! You're gonna join us, kupo!!!... Ends with: Ooo... me wait for you in big airship!"
+    "summary": "Characters: Mog, Umaro. Location: Umaro's Cave. Starts with: I'm your boss, kupo! You're gonna join us, kupo!!!... Ends with: Ooo... me wait for you in big airship!"
   },
   {
     "location": "---",
@@ -6717,8 +6717,8 @@
   {
     "location": "Jidoor, specifically Owzer's House",
     "characters": [
-      "Relm",
       "Chadarnook",
+      "Relm",
       "Owzer"
     ],
     "content": [
@@ -6774,7 +6774,7 @@
         "Owzer": "I'll be waiting for you!"
       }
     ],
-    "summary": "Characters: Relm, Chadarnook, Owzer. Location: Jidoor, specifically Owzer's House. Starts with: P...please... Help that painting!!... Ends with: I'll be waiting for you!"
+    "summary": "Characters: Chadarnook, Relm, Owzer. Location: Jidoor, specifically Owzer's House. Starts with: P...please... Help that painting!!... Ends with: I'll be waiting for you!"
   },
   {
     "location": "---",
@@ -6870,13 +6870,13 @@
   {
     "location": "Cyan's Dream",
     "characters": [
-      "Curley",
-      "Owain",
-      "Larry",
       "Cyan",
       "Moe",
+      "Larry",
       "Elayne",
-      "Wrexsoul"
+      "Wrexsoul",
+      "Owain",
+      "Curley"
     ],
     "content": [
       {
@@ -6958,7 +6958,7 @@
         "Cyan": "Elayne and Owain live on in my heart. I must leave the past behind. I have much to live for..."
       }
     ],
-    "summary": "Characters: Curley, Owain, Larry, Cyan, Moe, Elayne, Wrexsoul. Location: Cyan's Dream. Starts with: I'm Curley!... Ends with: Elayne and Owain live on in my heart. I must leave the past behind. I have much to live for..."
+    "summary": "Characters: Cyan, Moe, Larry, Elayne, Wrexsoul, Owain, Curley. Location: Cyan's Dream. Starts with: I'm Curley!... Ends with: Elayne and Owain live on in my heart. I must leave the past behind. I have much to live for..."
   },
   {
     "location": "---",
@@ -6974,8 +6974,8 @@
     "location": "Thamasa (with Relm and Strago",
     "characters": [
       "Relm",
-      "Strago",
-      "Gungho"
+      "Gungho",
+      "Strago"
     ],
     "content": [
       {
@@ -7102,7 +7102,7 @@
         "Gungho": "What the...!"
       }
     ],
-    "summary": "Characters: Relm, Strago, Gungho. Location: Thamasa (with Relm and Strago. Starts with: Yea!! We're back! It's like old times!... Ends with: What the...!"
+    "summary": "Characters: Relm, Gungho, Strago. Location: Thamasa (with Relm and Strago. Starts with: Yea!! We're back! It's like old times!... Ends with: What the...!"
   },
   {
     "location": "---",
@@ -7117,9 +7117,9 @@
   {
     "location": "Kefka's Tower",
     "characters": [
-      "Strago",
       "Edgar",
       "Setzer",
+      "Strago",
       "Celes"
     ],
     "content": [
@@ -7154,7 +7154,7 @@
         "Celes": "What will happen to... Terra...?"
       }
     ],
-    "summary": "Characters: Strago, Edgar, Setzer, Celes. Location: Kefka's Tower. Starts with: It's time to break into Kefka's domain!... Ends with: What will happen to... Terra...?"
+    "summary": "Characters: Edgar, Setzer, Strago, Celes. Location: Kefka's Tower. Starts with: It's time to break into Kefka's domain!... Ends with: What will happen to... Terra...?"
   },
   {
     "location": "---",
@@ -7182,19 +7182,19 @@
   {
     "location": "---",
     "characters": [
-      "Kefka",
       "Edgar",
-      "Terra",
-      "Locke",
       "Mog",
-      "Celes",
-      "Relm",
       "Cyan",
+      "Terra",
       "Setzer",
-      "Sabin",
-      "Shadow",
+      "Relm",
       "Strago",
-      "Gau"
+      "Locke",
+      "Gau",
+      "Shadow",
+      "Kefka",
+      "Sabin",
+      "Celes"
     ],
     "content": [
       {
@@ -7321,7 +7321,7 @@
         "ACTION": "Kefka unleashes the \"light of judgement\" again, and everything\n    looks pretty normal, no crazy towers"
       }
     ],
-    "summary": "Characters: Kefka, Edgar, Terra, Locke, Mog, Celes, Relm, Cyan, Setzer, Sabin, Shadow, Strago, Gau. Location: ---. Starts with: Welcome, friends!... Ends with: Hee, hee, hee!! But what fun is destruction if no \"precious\" lives are lost!"
+    "summary": "Characters: Edgar, Mog, Cyan, Terra, Setzer, Relm, Strago, Locke, Gau, Shadow, Kefka, Sabin, Celes. Location: ---. Starts with: Welcome, friends!... Ends with: Hee, hee, hee!! But what fun is destruction if no \"precious\" lives are lost!"
   },
   {
     "location": "---",
@@ -7400,8 +7400,8 @@
   {
     "location": "---",
     "characters": [
-      "Cyan",
-      "Edgar"
+      "Edgar",
+      "Cyan"
     ],
     "content": [
       {
@@ -7420,7 +7420,7 @@
         "Cyan": "Machines! I hate machines! You just have to show technology who's boss"
       }
     ],
-    "summary": "Characters: Cyan, Edgar. Location: ---. Starts with: Cyan! Think you can handle that switch?... Ends with: Machines! I hate machines! You just have to show technology who's boss"
+    "summary": "Characters: Edgar, Cyan. Location: ---. Starts with: Cyan! Think you can handle that switch?... Ends with: Machines! I hate machines! You just have to show technology who's boss"
   },
   {
     "location": "---",
@@ -7563,8 +7563,8 @@
   {
     "location": "---",
     "characters": [
-      "Maduin",
-      "Terra"
+      "Terra",
+      "Maduin"
     ],
     "content": [
       {
@@ -7580,7 +7580,7 @@
         "Maduin": "Terra... we must part now. We Espers will disappear from this world... forever. But if the human part of you is very strongly attached to someone or something... You will probably be able to remain in this world as a human being"
       }
     ],
-    "summary": "Characters: Maduin, Terra. Location: ---. Starts with: Father...?... Ends with: Terra... we must part now. We Espers will disappear from this world... forever. But if the human part of you is very strongly attached to someone or something... You will probably be able to remain in this world as a human being"
+    "summary": "Characters: Terra, Maduin. Location: ---. Starts with: Father...?... Ends with: Terra... we must part now. We Espers will disappear from this world... forever. But if the human part of you is very strongly attached to someone or something... You will probably be able to remain in this world as a human being"
   },
   {
     "location": "---",
@@ -7652,9 +7652,9 @@
   {
     "location": "---",
     "characters": [
-      "Setzer",
       "Edgar",
       "Terra",
+      "Setzer",
       "Celes"
     ],
     "content": [
@@ -7695,7 +7695,7 @@
         "Setzer": "Didn't I say it before?! This is the world's fastest ship!"
       }
     ],
-    "summary": "Characters: Setzer, Edgar, Terra, Celes. Location: ---. Starts with: Come with me!... Ends with: Didn't I say it before?! This is the world's fastest ship!"
+    "summary": "Characters: Edgar, Terra, Setzer, Celes. Location: ---. Starts with: Come with me!... Ends with: Didn't I say it before?! This is the world's fastest ship!"
   },
   {
     "location": "---",
